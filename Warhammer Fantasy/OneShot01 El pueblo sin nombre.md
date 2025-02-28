@@ -444,19 +444,16 @@ Para que los jugadores descubran la verdad poco a poco, la información se prese
 Con este sistema de pistas y revelaciones progresivas, los jugadores descubrirán la historia **poco a poco**, enfrentándose a confusión, engaños y giros de guion antes de conocer la verdad y tomar una decisión final sobre el destino del pueblo.
 
 
-# Antagonista principal: El Heraldo del Olvido  
+# Antagonista principal: El Heraldo del Olvido
+![El Heraldo del Olvido](/home/txiki/Dokumentuak/rol-oneshot/Warhammer Fantasy/img01/heraldo.jpg){ width=300px }
 
-📜 **Nombre:** Varghast, el Heraldo del Olvido  
-📌 **Origen:** Un antiguo escriba que fue consumido por la magia del pacto y ahora existe como una entidad incompleta, atrapada entre la realidad y el vacío.  
-📌 **Apariencia:** Una figura alta y encapuchada, con partes de su cuerpo difuminadas como si no pertenecieran completamente a este mundo. Su rostro es solo una sombra, excepto por unos ojos pálidos que parecen olvidar lo que miran. Viste túnicas desgastadas con inscripciones que desaparecen al ser leídas.  
-📌 **Motivación:** Preserva la maldición del pacto y busca borrar el pueblo por completo para sellar su existencia de una vez por todas.  
-📌 **Poderes:**  
+**Nombre:** Varghast, el Heraldo del Olvido  
+**Origen:** Un antiguo escriba que fue consumido por la magia del pacto y ahora existe como una entidad incompleta, atrapada entre la realidad y el vacío.  
+**Apariencia:** Una figura alta y encapuchada, con partes de su cuerpo difuminadas como si no pertenecieran completamente a este mundo. Su rostro es solo una sombra, excepto por unos ojos pálidos que parecen olvidar lo que miran. Viste túnicas desgastadas con inscripciones que desaparecen al ser leídas.  
+**Motivación:** Preserva la maldición del pacto y busca borrar el pueblo por completo para sellar su existencia de una vez por todas.  
+**Poderes:**  
 - **Voz del Olvido:** Con solo hablar, puede hacer que una persona olvide fragmentos de su pasado.  
 - **Toque del Vacío:** Cualquier cosa que toca se desvanece progresivamente.  
 - **Ilusiones Distorsionadas:** Manipula la percepción de los jugadores, haciéndolos dudar de lo que ven.  
 
-📌 **Frase icónica:** *"Las palabras se desvanecen, los nombres se disuelven… nada que existe debería recordar lo que debe ser olvidado."*  
-
-Ahora generaré su ilustración en estilo manga. 😊
-
-Aquí tienes la ilustración estilo manga de **Varghast, el Heraldo del Olvido**, el antagonista principal de la aventura. Si necesitas ajustes o más detalles, dime y lo refinamos. 😊
+**Frase icónica:** *"Las palabras se desvanecen, los nombres se disuelven… nada que existe debería recordar lo que debe ser olvidado."*  
