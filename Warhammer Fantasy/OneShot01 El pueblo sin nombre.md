@@ -4,7 +4,7 @@ TODO:
 
 # One-Shot: El pueblo sin nombre
 
-📜 *Una aventura de misterio y magia en Warhammer Fantasy*
+*Una aventura de misterio y magia en Warhammer Fantasy*
 
 # Introducción
 
@@ -139,9 +139,9 @@ El nombre del pueblo **ha desaparecido de todas las inscripciones, mapas y regis
 
 ## 1. El problema: ¿Qué ocurre en el pueblo?
 
-📌 **El pueblo sigue existiendo, pero ha perdido su identidad.**
+**El pueblo sigue existiendo, pero ha perdido su identidad.**
 
-📌 **No recordar su nombre está teniendo consecuencias reales.**
+**No recordar su nombre está teniendo consecuencias reales.**
 
 * **Los archivos imperiales ya no lo reconocen**: Los burócratas creen que no existe y han dejado de enviar suministros y tropas.
 * **Las almas de los muertos no pueden ir al Reino de Morr**: Los sacerdotes de Morr sienten que el pueblo es "invisible" para su dios.
@@ -151,33 +151,32 @@ El nombre del pueblo **ha desaparecido de todas las inscripciones, mapas y regis
   * Algunas casas parecen haber cambiado de dueño... pero nadie recuerda a los antiguos residentes.
   * **La gente que se va del pueblo olvida que alguna vez vivió allí.**
 
-## 2. Investigación: Pistas claves para los jugadores**
-------------------------------------------------------
+## 2. Investigación: Pistas claves para los jugadores
 
 Los jugadores deben reunir información **hablando con los aldeanos y
 revisando registros antiguos**.
 
 ### PNJs relevantes
 
-👴 **Padre Gustav (Sacerdote de Morr):**
+**Padre Gustav (Sacerdote de Morr):**
 
 * Sabe que **el cementerio ha sido afectado**.
 * Dice que las lápidas **han perdido sus inscripciones**.
 * Está preocupado porque **las almas están atrapadas y no pueden ir al Reino de Morr**.
 
-📜 **Frau Ingrid (Historiadora del pueblo):**
+**Frau Ingrid (Historiadora del pueblo):**
 
 * Ha intentado leer antiguos documentos, pero **todos han perdidoreferencias al nombre del pueblo**.
 * Menciona que **hubo un evento hace 50 años que nadie recuerda bien**.
 * Cree que **algo o alguien eliminó el nombre intencionadamente**.
 
-🛠 **Hanz el Herrero:**
+**Hanz el Herrero:**
 
 * Es el único que recuerda un **símbolo extraño** grabado en una piedra en la plaza.
 * Dice que los ancianos hablaban de una **"antigua promesa"** que no debía romperse.
 * Puede fabricar herramientas especiales si los jugadores necesitan algo.
 
-🌑 **Los Fantasmas del Cementerio:**
+**Los Fantasmas del Cementerio:**
 
 * No son agresivos, pero **no recuerdan a qué pueblo pertenecieron**.
 * Algunos mencionan **"un juramento de sangre"** hecho hace mucho tiempo.
@@ -195,55 +194,54 @@ El problema es que, con el tiempo, la **magia del pacto se ha debilitado**, y ah
 
 ## 4. Resolviendo el misterio: opciones finales para los personajes jugadores
 
-### 📝 Opción 1: Recuperar el nombre perdido
+### Opción 1: Recuperar el nombre perdido
 
 Encontrar el **símbolo en la piedra antigua** en la plaza y realizar un ritual de restauración.
 
 * Necesitan la ayuda del sacerdote de Morr y de los fantasmas del cementerio.
 * **Consecuencia:** El pueblo recupera su identidad, pero vuelve a ser visible para los conflictos del Imperio.
 
-### ❌ Opción 2: Aceptar el olvido y sellar el destino del pueblo
+### Opción 2: Aceptar el olvido y sellar el destino del pueblo
 
 Usar un nuevo ritual para **consolidar la desaparición total** del pueblo.
 
 * Eliminarán **toda memoria del pueblo en quienes lo visitaron, incluyéndose a sí mismos**.
 * **Consecuencia:** Se convertirán en los últimos en recordar que el pueblo alguna vez existió.
 
-### 🔮 Opción 3: Darle un nuevo nombre y crear un destino nuevo
+### Opción 3: Darle un nuevo nombre y crear un destino nuevo
 
 Grabar un **nuevo nombre en la piedra del pacto**.
 
 * Esto crea un **nuevo pueblo con un destino independiente**.
-* **Consecuencia:** Algunos eventos del pasado pueden cambiar, y
-    ciertos NPCs pueden no ser los mismos.
+* **Consecuencia:** Algunos eventos del pasado pueden cambiar, y ciertos NPCs pueden no ser los mismos.
 
 ### 5. Elementos de Juego y Dificultades
 
-#### 🕵️ Investigación y exploración
+#### Investigación y exploración
 
 * Buscar registros antiguos en la biblioteca (Dificultad 12).
 * Interrogar fantasmas en el cementerio (Dificultad 10).
 * Descifrar el símbolo en la piedra (Dificultad 15).
 
-#### ⚔ **Posibles enemigos o peligros:
+#### **Posibles enemigos o peligros:
 
 * **Espectros Guardianes** del pacto, que intentarán evitar que los jugadores rompan el hechizo.
 * **Bandidos oportunistas** que han oído rumores sobre el pueblo maldito.
 * **Criaturas deformadas** que han aparecido en los límites del pueblo debido a su inestabilidad mágica.
 
-#### 🎭 Decisión final
+#### Decisión final
 
 El destino del pueblo **depende totalmente de los jugadores**.
 
 # Resumen
 
-✅ **Los habitantes recuerdan su propia identidad:** No hay amnesia masiva, solo la pérdida del nombre del pueblo.
+**Los habitantes recuerdan su propia identidad:** No hay amnesia masiva, solo la pérdida del nombre del pueblo.
 
-✅ **El problema tiene consecuencias reales:** No es solo una rareza, sino que está afectando el mundo físico y espiritual.
+**El problema tiene consecuencias reales:** No es solo una rareza, sino que está afectando el mundo físico y espiritual.
 
-✅ **Hay una historia detrás:** No es un misterio sin sentido, sino el resultado de una elección del pasado.
+**Hay una historia detrás:** No es un misterio sin sentido, sino el resultado de una elección del pasado.
 
-✅ **Los jugadores tienen libertad total para decidir el destino del pueblo.**
+**Los jugadores tienen libertad total para decidir el destino del pueblo.**
 
 # Material para el Director de Juego
 
@@ -312,11 +310,11 @@ Para evitar que los jugadores resuelvan el misterio demasiado rápido, introduce
 ### Resolución del misterio
 
 Los jugadores deben decidir qué hacer:
-✅ **Recuperar el nombre original** → Restaura la historia, pero hace que el pueblo vuelva a ser visible para el Imperio.
+**Recuperar el nombre original** → Restaura la historia, pero hace que el pueblo vuelva a ser visible para el Imperio.
 
-❌ **Dejar que el pueblo desaparezca** → El lugar se desvanecerá, y los jugadores olvidarán que alguna vez existió.
+**Dejar que el pueblo desaparezca** → El lugar se desvanecerá, y los jugadores olvidarán que alguna vez existió.
 
-🔄 **Dar un nuevo nombre al pueblo** → Cambia el destino del lugar, pero puede traer consecuencias inesperadas.
+**Dar un nuevo nombre al pueblo** → Cambia el destino del lugar, pero puede traer consecuencias inesperadas.
 
 ## 3. Mecánicas y reglas para la aventura
 
@@ -327,9 +325,9 @@ Los jugadores deben decidir qué hacer:
 * **Resistencia mágica (dificultad 12-16):** Para resistir los efectos del pacto si intentan romperlo.
 
 ### Posibles encuentros y desafíos
-📜 **Guardianes del pacto:** Espectros que protegen la piedra del pacto.
-🏹 **Bandidos oportunistas:** Criminales que creen que el pueblo está maldito y buscan saquearlo.
-💀 **Muertos atrapados:** Espíritus en pena que desean encontrar su descanso.
+**Guardianes del pacto:** Espectros que protegen la piedra del pacto.
+**Bandidos oportunistas:** Criminales que creen que el pueblo está maldito y buscan saquearlo.
+**Muertos atrapados:** Espíritus en pena que desean encontrar su descanso.
 
 ### Consecuencias finales
 El pueblo cambiará dependiendo de la decisión de los jugadores:
@@ -339,9 +337,9 @@ El pueblo cambiará dependiendo de la decisión de los jugadores:
 
 ## 4. Consejos para el director de juego
 
-🎭 **Juega con la incertidumbre:** Haz que los jugadores sientan que el pueblo está deslizándose fuera de la realidad.
-⚖ **Dale peso a las decisiones:** Cada opción debe tener consecuencias importantes.
-📖 **Deja que descubran el misterio a su ritmo:** No les des la solución directamente, sino pistas sutiles.
+**Juega con la incertidumbre:** Haz que los jugadores sientan que el pueblo está deslizándose fuera de la realidad.
+**Dale peso a las decisiones:** Cada opción debe tener consecuencias importantes.
+**Deja que descubran el misterio a su ritmo:** No les des la solución directamente, sino pistas sutiles.
 
 ### Conclusión
 "El pueblo que olvidó su nombre" es una aventura de misterio, exploración y elecciones con peso narrativo. Es ideal para jugadores que disfrutan de la investigación y las consecuencias de sus decisiones en el mundo de Warhammer Fantasy. 
@@ -353,25 +351,25 @@ El pueblo cambiará dependiendo de la decisión de los jugadores:
 
 ## 1. Batalla intermedia: los guardianes del pacto
 
-📌 **Ubicación:** Ruinas antiguas dentro del pueblo, con estructuras medio derruidas y muchas coberturas.
-📌 **Enemigos:** Tres espectros guardianes con armaduras etéreas, que solo pueden ser dañados con ataques mágicos o armas imbuidas.
-📌 **Estrategia:**
+**Ubicación:** Ruinas antiguas dentro del pueblo, con estructuras medio derruidas y muchas coberturas.
+**Enemigos:** Tres espectros guardianes con armaduras etéreas, que solo pueden ser dañados con ataques mágicos o armas imbuidas.
+**Estrategia:**
 * Los jugadores deben **esconderse y moverse** entre las ruinas para evitar ser rodeados.
 * Descubrir que **las runas en el suelo pueden debilitar a los espectros** si son manipuladas correctamente.
 * **Objetos del entorno** pueden usarse para hacer ruido y distraer a los enemigos.
 * **Los espectros no pueden atravesar ciertas estructuras** que fueron consagradas hace siglos.
 * Si los jugadores no usan magia, pueden **buscar un arma sagrada oculta** en las ruinas.
 
-📜 **Condición de victoria:** Derrotar a los tres espectros usando estrategia y el entorno.
-📜 **Condición de derrota:** Si los jugadores quedan atrapados y son consumidos por la magia del pacto.
+**Condición de victoria:** Derrotar a los tres espectros usando estrategia y el entorno.
+**Condición de derrota:** Si los jugadores quedan atrapados y son consumidos por la magia del pacto.
 
 ---
 
 ## 2. Batalla final: la entidad del pacto
 
-📌 **Ubicación:** La piedra del pacto, un círculo de runas rodeado de grietas dimensionales.
-📌 **Enemigo:** Un ser de energía pura con forma cambiante, que adapta sus tácticas a los ataques de los jugadores.
-📌 **Estrategia:**
+**Ubicación:** La piedra del pacto, un círculo de runas rodeado de grietas dimensionales.
+**Enemigo:** Un ser de energía pura con forma cambiante, que adapta sus tácticas a los ataques de los jugadores.
+**Estrategia:**
 * **Dividir y conquistar:** La entidad puede separar a los jugadores usando ilusiones y ataques psíquicos.
 * **Explorar sus debilidades:** Solo es vulnerable en ciertos momentos, cuando la magia del pacto fluctúa.
 * **Usar el entorno:** Las grietas dimensionales pueden lanzar energía inestable, dañando tanto a jugadores como al enemigo si son manipuladas correctamente.
@@ -379,19 +377,19 @@ El pueblo cambiará dependiendo de la decisión de los jugadores:
 * **Los jugadores pueden sabotear la piedra del pacto** para debilitar la regeneración del enemigo.
 * **El jefe se vuelve más fuerte en la oscuridad**, por lo que encender antorchas mágicas podría ser clave.
 
-📜 **Condición de victoria:** Romper el pacto o vencer al ente antes de que absorba demasiado poder.
-📜 **Condición de derrota:** Si el enemigo se fortalece lo suficiente, sellará el destino del pueblo y de los jugadores.
+**Condición de victoria:** Romper el pacto o vencer al ente antes de que absorba demasiado poder.
+**Condición de derrota:** Si el enemigo se fortalece lo suficiente, sellará el destino del pueblo y de los jugadores.
 
 ## 3. Recompensas y consecuencias
-🎖 **Si los jugadores ganan:** El pueblo puede recuperar su nombre o tomar un nuevo rumbo, dependiendo de sus decisiones.
-☠ **Si los jugadores pierden:** Quedan atrapados en el limbo de la realidad del pacto, olvidados para siempre.
+**Si los jugadores ganan:** El pueblo puede recuperar su nombre o tomar un nuevo rumbo, dependiendo de sus decisiones.
+**Si los jugadores pierden:** Quedan atrapados en el limbo de la realidad del pacto, olvidados para siempre.
 
-🎭 **Consejo para el director de juego:**
+**Consejo para el director de juego:**
 * Fomenta el uso del entorno para incentivar el pensamiento estratégico.
 * No hagas que el jefe sea simplemente una bolsa de puntos de vida; dale **fases y adaptabilidad**.
 * Usa el tiempo y los efectos del pacto para generar tensión creciente en ambas batallas.
 
-⚔ **Este guion está diseñado para que los jugadores piensen, se posicionen bien y usen la creatividad para salir victoriosos.**
+**Este guion está diseñado para que los jugadores piensen, se posicionen bien y usen la creatividad para salir victoriosos.**
 
 # Descubriendo la realidad
 
@@ -403,44 +401,44 @@ Para que los jugadores descubran la verdad poco a poco, la información se prese
 ## 2. Elementos y personajes clave para el descubrimiento progresivo
 
 ### Primera fase: "Algo no cuadra"
-📌 **Pistas iniciales que despiertan la curiosidad**
+**Pistas iniciales que despiertan la curiosidad**
 * **Padre Gustav (sacerdote de Morr)**: Les habla del cementerio y de cómo **las lápidas han perdido los nombres de los difuntos**.
 * **Carteles y documentos oficiales**: No contienen el nombre del pueblo. En mapas, aparece como "desconocido".
 * **Los viajeros forasteros**: No recuerdan haber llegado hasta aquí, como si el pueblo no existiera en sus mentes antes de estar dentro.
 * **Las desapariciones extrañas**: Algunos edificios han cambiado, y algunos ancianos aseguran que *“había más casas antes”*, pero nadie puede probarlo.
 
 ### Segunda fase: "Algo ocurrió aquí y ha sido borrado"
-📌 **Aparición de datos históricos, pero sin conexiones claras**
+**Aparición de datos históricos, pero sin conexiones claras**
 * **Frau Ingrid (historiadora)**: Muestra documentos con partes en blanco, asegurando que **antes contenían información sobre un evento importante hace 50 años**.
 * **Hanz el herrero**: Afirma recordar un símbolo extraño en una piedra en la plaza, pero no puede explicar su significado.
 * **Los aldeanos más ancianos**: A veces entran en trance y murmuran sobre un *"juramento de sangre"* y *"el precio de la seguridad"*, pero luego lo olvidan.
 * **Al salir del pueblo y volver**: Los PJ sienten un leve mareo y pierden la noción del tiempo por unos segundos.
 
 ### Tercera fase: "Hay alguien o algo que nos oculta la verdad"
-📌 **Aquí los jugadores pueden empezar a notar que el engaño es intencional**
+**Aquí los jugadores pueden empezar a notar que el engaño es intencional**
 * **Los fantasmas del cementerio**: No recuerdan su propia muerte ni el lugar donde vivieron.
 * **La piedra del pacto**: Un antiguo monolito con símbolos erosionados que parecen *resistirse* a ser leídos.
 * **Un PNJ mentiroso**: Un tabernero demasiado insistente en que *"nunca ha pasado nada extraño aquí"*.
 * **El Escribano Imperial (engaño deliberado)**: Un forastero que afirma que **el pueblo jamás ha existido en los archivos del Imperio**, sugiriendo que es un lugar maldito.
 
 ### Cuarta fase: "El pacto y la desaparición del nombre"
-📌 **Los jugadores pueden ahora juntar las piezas y empezar a deducir lo que pasó**
+**Los jugadores pueden ahora juntar las piezas y empezar a deducir lo que pasó**
 * **Un texto parcialmente restaurado**: Frau Ingrid logra reconstruir parte de un pergamino que menciona un "pacto de sangre para ocultar el pueblo".
 * **Los guardianes del pacto**: Espectros que protegen la piedra del pacto y repiten sin cesar: *"Nunca debió ser recordado"*.
 * **El altar de la iglesia de Morr**: Oculta una inscripción que se activa con luz de velas, revelando una frase incompleta sobre *"el sacrificio de un nombre"*.
 * **Un PNJ que recuerda algo más de la cuenta**: Alguien que dejó el pueblo hace mucho tiempo regresa, **recordando su existencia perfectamente**, lo que contradice la pérdida de memoria general.
 
 ### Quinta fase: "La verdad completa y el dilema final"
-📌 **Los jugadores descubren toda la historia y deben decidir qué hacer**
+**Los jugadores descubren toda la historia y deben decidir qué hacer**
 * **La piedra del pacto se reactiva**: Si los PJ descubren cómo hacerlo, la piedra **muestra una visión del pasado**, revelando que el pueblo fue salvado de la guerra mediante un sacrificio.
 * **La entidad del pacto aparece**: Un ser de energía que asegura que el trato se rompió y ahora *"todo será borrado para siempre"*.
 * **El dilema final**: Restaurar el nombre del pueblo, dejar que desaparezca o forjar una nueva identidad.
 
 ## 3. Cómo engañar a los jugadores de forma efectiva
-🎭 **Información sesgada:** Ningún PNJ tiene toda la historia, solo fragmentos.
-📖 **Registros alterados:** Documentos con páginas arrancadas, nombres en blanco o tinta desvanecida.
-👁 **Eventos extraños:** Lugares que cambian de posición, recuerdos inconsistentes.
-⚖ **Mentiras parciales:** Algunos NPCs creen versiones erróneas de la historia y las transmiten como verdad.
+**Información sesgada:** Ningún PNJ tiene toda la historia, solo fragmentos.
+**Registros alterados:** Documentos con páginas arrancadas, nombres en blanco o tinta desvanecida.
+**Eventos extraños:** Lugares que cambian de posición, recuerdos inconsistentes.
+**Mentiras parciales:** Algunos NPCs creen versiones erróneas de la historia y las transmiten como verdad.
 
 ## 4. Conclusión
 Con este sistema de pistas y revelaciones progresivas, los jugadores descubrirán la historia **poco a poco**, enfrentándose a confusión, engaños y giros de guion antes de conocer la verdad y tomar una decisión final sobre el destino del pueblo.
