@@ -62,7 +62,7 @@ Los personajes llegan a la imponente entrada de la Torre del Estratega. El vest�
 
 ## Mapa Esquemático del Encuentro
 
-![](/home/nestor/Documents/rol-oneshot/Estrategia_lucha/Figure_1.png)
+![](Figure_1.png)
 
 El mapa muestra:
 
@@ -124,7 +124,7 @@ Los personajes se adentran en un pasillo laberíntico y oscuro, en el que el sue
 
 ## Mapa Esquemático del Laberinto de Trampas
 
-![](/home/nestor/Documents/rol-oneshot/Estrategia_lucha/Figure_2.png)
+![](Figure_2.png)
 
 ### Explicación del Mapa
 
@@ -184,7 +184,7 @@ El grupo avanza por un pasillo de la torre donde el ambiente se torna inquietant
 
 El siguiente código en Python utiliza matplotlib para generar un mapa elegante que representa el corredor oscuro con áreas iluminadas, zonas de sombra y posiciones de los espectros:
 
-![](/home/nestor/Documents/rol-oneshot/Estrategia_lucha/Figure_3.png)
+![](Figure_3.png)
 
 ### Explicación del Mapa
 
@@ -238,7 +238,7 @@ Los aventureros se adentran en una sala amplia, antiguamente un gran salón o ve
 
 El siguiente código en Python utiliza matplotlib para generar un mapa elegante del gran salón, que representa el entorno con líneas rectas, curvas y colores para diferenciar las áreas estratégicas y los obstáculos.
 
-![](/home/nestor/Documents/rol-oneshot/Estrategia_lucha/Figure_4.png)
+![](Figure_4.png)
 
 ### Explicación del Mapa
 
@@ -309,7 +309,7 @@ El enfrentamiento tiene lugar en una gran sala del trono, antigua y majestuosa, 
 
 A continuación, se presenta el código en Python con matplotlib para generar un mapa elegante del encuentro final:
 
-![](/home/nestor/Documents/rol-oneshot/Estrategia_lucha/Figure_5.png)
+![](Figure_5.png)
 
 ### Explicación del Mapa
 
@@ -544,19 +544,16 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 
 ## 1. Thorin “El Férreo” – Guerrero (Battle Master)
 
-**Rol:** Tanque y estratega cuerpo a cuerpo, capaz de controlar el campo de batalla mediante maniobras tácticas.
+**Descripción:** Tanque y estratega cuerpo a cuerpo, capaz de controlar el campo de batalla mediante maniobras tácticas.
 
 **Estadísticas (aproximadas):**
 
-- **Fuerza:** 16 (+3)
-- **Destreza:** 14 (+2)
-- **Constitución:** 16 (+3)
-- **Inteligencia:** 10 (+0)
-- **Sabiduría:** 12 (+1)
-- **Carisma:** 10 (+0)
+| FUE     | DES     | CON     | INT | SAB     | CAR |
+|:-------:|:-------:|:-------:|:---:|:-------:|:---:|
+| 16 (+3) | 14 (+2) | 16 (+3) | 10  | 12 (+1) | 10  |
 
-**Puntos de Golpe:** ~50  
-**Clase de Armadura:** 18 (Armadura de placas o cota de malla + escudo)
+**PG:** 50  
+**CA:** 18 (Armadura de placas o cota de malla + escudo)
 
 **Equipo y Armas:**
 
@@ -576,19 +573,16 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 
 ## 2. Eldrin “El Astuto” – Mago (Evocador)
 
-**Rol:** Control del campo y daño a distancia mediante magia, capaz de analizar y explotar las debilidades enemigas.
+**Descripción:** Control del campo y daño a distancia mediante magia, capaz de analizar y explotar las debilidades enemigas.
 
 **Estadísticas (aproximadas):**
 
-- **Fuerza:** 8 (–1)
-- **Destreza:** 12 (+1)
-- **Constitución:** 14 (+2)
-- **Inteligencia:** 17 (+3)
-- **Sabiduría:** 13 (+1)
-- **Carisma:** 10 (+0)
+| FUE    | DES     | CON     | INT     | SAB     | CAR |
+|:------:|:-------:|:-------:|:-------:|:-------:|:---:|
+| 8 (-1) | 12 (+1) | 14 (+2) | 17 (+3) | 13 (+1) | 10  |
 
-**Puntos de Golpe:** ~30  
-**Clase de Armadura:** 12 (con armadura de mago o sin armadura; puede usar el hechizo *Escudo* en momentos críticos)
+**PG:** 30  
+**CA:** 12 (con armadura de mago o sin armadura; puede usar el hechizo *Escudo* en momentos críticos)
 
 **Equipo y Armas:**
 
@@ -611,15 +605,12 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 
 **Estadísticas (aproximadas):**
 
-- **Fuerza:** 8 (–1)
-- **Destreza:** 17 (+3)
-- **Constitución:** 14 (+2)
-- **Inteligencia:** 12 (+1)
-- **Sabiduría:** 13 (+1)
-- **Carisma:** 10 (+0)
+| FUE    | DES     | CON     | INT     | SAB     | CAR |
+|:------:|:-------:|:-------:|:-------:|:-------:|:---:|
+| 8 (-1) | 17 (+3) | 14 (+2) | 12 (+1) | 13 (+1) | 10  |
 
-**Puntos de Golpe:** ~35  
-**Clase de Armadura:** 15 (Armadura de cuero tachonado)
+**PG:** 35  
+**CA:** 15 (Armadura de cuero tachonado)
 
 **Equipo y Armas:**
 
@@ -643,15 +634,12 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 
 **Estadísticas (aproximadas):**
 
-- **Fuerza:** 16 (+3)
-- **Destreza:** 10 (+0)
-- **Constitución:** 14 (+2)
-- **Inteligencia:** 10 (+0)
-- **Sabiduría:** 12 (+1)
-- **Carisma:** 16 (+3)
+| FUE     | DES | CON     | INT | SAB     | CAR     |
+|:-------:|:---:|:-------:|:---:|:-------:|:-------:|
+| 16 (+3) | 10  | 14 (+2) | 10  | 12 (+1) | 16 (+3) |
 
-**Puntos de Golpe:** ~45  
-**Clase de Armadura:** 18 (Armadura completa y escudo)
+**PG:** 45  
+**CA:** 18 (Armadura completa y escudo)
 
 **Equipo y Armas:**
 
@@ -675,15 +663,12 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 
 **Estadísticas (aproximadas):**
 
-- **Fuerza:** 10 (+0)
-- **Destreza:** 16 (+3)
-- **Constitución:** 14 (+2)
-- **Inteligencia:** 10 (+0)
-- **Sabiduría:** 16 (+3)
-- **Carisma:** 8 (–1)
+| FUE | DES     | CON     | INT | SAB     | CAR    |
+|:---:|:-------:|:-------:|:---:|:-------:|:------:|
+| 10  | 16 (+3) | 14 (+2) | 10  | 16 (+3) | 8 (-1) |
 
-**Puntos de Golpe:** ~40  
-**Clase de Armadura:** 14–15 (Armadura de cuero tachonado o de cota de mallas ligera)
+**PG:** 40  
+**CA:** 14–15 (Armadura de cuero tachonado o de cota de mallas ligera)
 
 **Equipo y Armas:**
 
