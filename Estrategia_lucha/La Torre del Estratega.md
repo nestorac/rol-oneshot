@@ -86,14 +86,16 @@ Los personajes llegan a la imponente entrada de la Torre del Estratega. El vest�
 
 ## Encuentro 2: El Laberinto de Trampas
 
-**Objetivo:** Poner a prueba las habilidades de percepción, investigación y destreza para sortear trampas y acertijos.  
-**Ambientación y Enemigos:**
+**Objetivo:** Poner a prueba las habilidades de percepción, investigación y destreza para sortear trampas y acertijos.
 
-- **Ambiente:** Un pasillo laberíntico con mecanismos ocultos, trampas mecánicas y elementos interactivos (palancas, placas de presión).
-- **Desafíos:**
-  - Trampas activadas por el peso o el movimiento, obligando a los jugadores a realizar tiradas de Destreza y Percepción.
-  - Un enigma o mecanismo que, al resolverse correctamente, desactiva parte de las trampas o abre un acceso seguro.  
-- **Dinámica:** Incentivar el uso de habilidades no combativas y la coordinación para que algunos personajes vigilen mientras otros exploran o desactivan las trampas.
+**Ambiente:** Un pasillo laberíntico con mecanismos ocultos, trampas mecánicas y elementos interactivos (palancas, placas de presión).
+
+**Desafíos**
+
+- Trampas activadas por el peso o el movimiento, obligando a los jugadores a realizar tiradas de Destreza y Percepción.
+- Un enigma o mecanismo que, al resolverse correctamente, desactiva parte de las trampas o abre un acceso seguro.  
+
+**Dinámica:** Incentivar el uso de habilidades no combativas y la coordinación para que algunos personajes vigilen mientras otros exploran o desactivan las trampas.
 
 ### Objetivo
 
@@ -534,13 +536,12 @@ Durante el encuentro final, es posible que aparezcan esbirros (como mercenarios 
 
 **Descripción:** Tanque y estratega cuerpo a cuerpo, capaz de controlar el campo de batalla mediante maniobras tácticas.
 
-**Estadísticas (aproximadas):**
-
 | FUE     | DES     | CON     | INT | SAB     | CAR |
 |:-------:|:-------:|:-------:|:---:|:-------:|:---:|
 | 16 (+3) | 14 (+2) | 16 (+3) | 10  | 12 (+1) | 10  |
 
 **PG:** 50
+
 **CA:** 18 (Armadura de placas o cota de malla + escudo)
 
 **Equipo y Armas:**
@@ -557,19 +558,16 @@ Durante el encuentro final, es posible que aparezcan esbirros (como mercenarios 
 
 - **Maniobras de Batalla:** Puede utilizar sus dados de superioridad para imponer efectos tácticos (desarmar, empujar, etc.) y coordinar sus ataques con precisión.
 
----
-
 ## 2. Eldrin “El Astuto” – Mago (Evocador)
 
 **Descripción:** Control del campo y daño a distancia mediante magia, capaz de analizar y explotar las debilidades enemigas.
-
-**Estadísticas (aproximadas):**
 
 | FUE    | DES     | CON     | INT     | SAB     | CAR |
 |:------:|:-------:|:-------:|:-------:|:-------:|:---:|
 | 8 (-1) | 12 (+1) | 14 (+2) | 17 (+3) | 13 (+1) | 10  |
 
 **PG:** 30
+
 **CA:** 12 (con armadura de mago o sin armadura; puede usar el hechizo *Escudo* en momentos críticos)
 
 **Equipo y Armas:**
@@ -585,19 +583,16 @@ Durante el encuentro final, es posible que aparezcan esbirros (como mercenarios 
 
 - **Conocimiento Arcano:** Puede identificar debilidades mágicas o estructurales en enemigos y trampas, proporcionando información táctica al grupo.
 
----
-
 ## 3. Lyra “La Sombra” – Pícara (Arcane Trickster)
 
 **Rol:** Especialista en infiltración, desactivación de trampas y ataques sorpresa. Su agilidad le permite aprovechar el entorno para emboscar enemigos.
-
-**Estadísticas (aproximadas):**
 
 | FUE    | DES     | CON     | INT     | SAB     | CAR |
 |:------:|:-------:|:-------:|:-------:|:-------:|:---:|
 | 8 (-1) | 17 (+3) | 14 (+2) | 12 (+1) | 13 (+1) | 10  |
 
 **PG:** 35
+
 **CA:** 15 (Armadura de cuero tachonado)
 
 **Equipo y Armas:**
@@ -614,19 +609,16 @@ Durante el encuentro final, es posible que aparezcan esbirros (como mercenarios 
 - **Ataque Furtivo:** Si ataca a un enemigo que está distraído o flanqueado, añade daño extra.
 - **Maestría en Trampas:** Puede detectar y desactivar trampas con facilidad, clave en el Laberinto de Trampas.
 
----
-
 ## 4. Kael “El Justiciero” – Paladín (Juramento de la Devoción)
 
 **Rol:** Combatiente frontal y sanador, que combina la lucha cuerpo a cuerpo con poderes divinos para proteger y motivar al grupo.
-
-**Estadísticas (aproximadas):**
 
 | FUE     | DES | CON     | INT | SAB     | CAR     |
 |:-------:|:---:|:-------:|:---:|:-------:|:-------:|
 | 16 (+3) | 10  | 14 (+2) | 10  | 12 (+1) | 16 (+3) |
 
-**PG:** 45  
+**PG:** 45
+
 **CA:** 18 (Armadura completa y escudo)
 
 **Equipo y Armas:**
@@ -643,19 +635,16 @@ Durante el encuentro final, es posible que aparezcan esbirros (como mercenarios 
 
 - **Divina Inspiración:** Puede usar su aura para inspirar a sus aliados, otorgando ventajas en ataques o salvaciones, además de canalizar energía divina para infligir daño extra a los enemigos.
 
----
-
 ## 5. Thalia “La Furtiva” – Guardabosques
 
 **Rol:** Exploradora y rastreadora, experta en la supervivencia y en el ataque a distancia, con un fuerte enfoque en la observación y la movilidad.
-
-**Estadísticas (aproximadas):**
 
 | FUE | DES     | CON     | INT | SAB     | CAR    |
 |:---:|:-------:|:-------:|:---:|:-------:|:------:|
 | 10  | 16 (+3) | 14 (+2) | 10  | 16 (+3) | 8 (-1) |
 
 **PG:** 40
+
 **CA:** 14–15 (Armadura de cuero tachonado o de cota de mallas ligera)
 
 **Equipo y Armas:**
