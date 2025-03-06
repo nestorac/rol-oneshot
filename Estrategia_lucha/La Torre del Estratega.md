@@ -319,8 +319,6 @@ A continuación, se presenta el código en Python con matplotlib para generar un
 - **El Jefe Final:** Ubicado en el centro, se representa con un rectángulo y se le añade un círculo indicador (vulnerabilidad) que señala el momento crítico de la batalla.
 - **Esbirros y Muros Internos:** Líneas punteadas y posiciones de enemigos secundarios complementan la dinámica del combate, obligando a los jugadores a gestionar múltiples amenazas y aprovechar el entorno.
 
-
-
 # Enemigos
 
 A continuación, te presento una propuesta para desarrollar cada tipo de enemigo que encontrarás a lo largo de la aventura en la Torre del Estratega. Las estadísticas, habilidades, armas y defensas están basadas en el sistema de D&D 5e, y puedes ajustarlas según el nivel y el estilo de juego de tu grupo.
@@ -539,3 +537,178 @@ Puede tomar 2 acciones legendarias al final del turno de otro enemigo, eligiendo
 
 **Esbirros del Maestro:**  
 Durante el encuentro final, es posible que aparezcan esbirros (como mercenarios esqueléticos) que utilicen las mismas estadísticas que los Mercenarios Esqueléticos descritos, ayudando a complementar la dificultad del combate y obligando a los jugadores a gestionar múltiples amenazas.
+
+A continuación, te presento cinco personajes pre-generados (PJ) diseñados para afrontar los desafíos de la Torre del Estratega. Cada uno aporta un rol muy diferente—desde el combate frontal hasta la magia, el sigilo y el apoyo táctico—para que la colaboración sea clave en la aventura. Puedes ajustar sus niveles o detalles según el reto que quieras proponer (se asume que son de nivel 5, por ejemplo).
+
+---
+
+## 1. Thorin “El Férreo” – Guerrero (Battle Master)
+
+**Rol:** Tanque y estratega cuerpo a cuerpo, capaz de controlar el campo de batalla mediante maniobras tácticas.
+
+**Estadísticas (aproximadas):**
+
+- **Fuerza:** 16 (+3)
+- **Destreza:** 14 (+2)
+- **Constitución:** 16 (+3)
+- **Inteligencia:** 10 (+0)
+- **Sabiduría:** 12 (+1)
+- **Carisma:** 10 (+0)
+
+**Puntos de Golpe:** ~50  
+**Clase de Armadura:** 18 (Armadura de placas o cota de malla + escudo)
+
+**Equipo y Armas:**
+
+- **Armadura pesada:** Cota de malla o placas
+- **Escudo:** +2 a CA
+- **Arma principal:** Espada larga (o gran espada, según preferencia)
+  - *Ataque:* +7; Daño: 1d8+3 (1d10+3 a dos manos)
+- **Arma secundaria:** Dardo o hacha ligera para ataques a distancia
+- **Herramientas tácticas:** Dados de superioridad (maniobras como Trip Attack, Disarming Attack, Precision Attack)
+- **Equipo adicional:** Botiquín básico, cuaderno de estrategias y un mapa esquemático de la torre
+
+**Habilidad Especial:**
+
+- **Maniobras de Batalla:** Puede utilizar sus dados de superioridad para imponer efectos tácticos (desarmar, empujar, etc.) y coordinar sus ataques con precisión.
+
+---
+
+## 2. Eldrin “El Astuto” – Mago (Evocador)
+
+**Rol:** Control del campo y daño a distancia mediante magia, capaz de analizar y explotar las debilidades enemigas.
+
+**Estadísticas (aproximadas):**
+
+- **Fuerza:** 8 (–1)
+- **Destreza:** 12 (+1)
+- **Constitución:** 14 (+2)
+- **Inteligencia:** 17 (+3)
+- **Sabiduría:** 13 (+1)
+- **Carisma:** 10 (+0)
+
+**Puntos de Golpe:** ~30  
+**Clase de Armadura:** 12 (con armadura de mago o sin armadura; puede usar el hechizo *Escudo* en momentos críticos)
+
+**Equipo y Armas:**
+
+- **Arma:** Bastón o vara (sirve como foco arcano)
+- **Concentración en hechizos:**
+  - *Ataques y control:* *Misil Mágico*, *Rayo de Escarcha*
+  - *Defensivos:* *Escudo*, *Armadura de Mago*
+  - *Utilitarios y de movilidad:* *Detectar Magia*, *Paso Nebuloso*
+- **Componentes:** Bolsa de componentes y su libro de hechizos (anotaciones de estrategias y tácticas)
+
+**Habilidad Especial:**
+
+- **Conocimiento Arcano:** Puede identificar debilidades mágicas o estructurales en enemigos y trampas, proporcionando información táctica al grupo.
+
+---
+
+## 3. Lyra “La Sombra” – Pícara (Arcane Trickster)
+
+**Rol:** Especialista en infiltración, desactivación de trampas y ataques sorpresa. Su agilidad le permite aprovechar el entorno para emboscar enemigos.
+
+**Estadísticas (aproximadas):**
+
+- **Fuerza:** 8 (–1)
+- **Destreza:** 17 (+3)
+- **Constitución:** 14 (+2)
+- **Inteligencia:** 12 (+1)
+- **Sabiduría:** 13 (+1)
+- **Carisma:** 10 (+0)
+
+**Puntos de Golpe:** ~35  
+**Clase de Armadura:** 15 (Armadura de cuero tachonado)
+
+**Equipo y Armas:**
+
+- **Arma principal:** Estoque o rapier
+  - *Ataque:* +7; Daño: 1d8+3 perforante
+- **Arma a distancia:** Arco corto o ballestas ligeras
+  - *Ataque:* +7; Daño: 1d6+3 perforante
+- **Herramientas:** Kit de ladrón (para desactivar trampas y abrir cerraduras)
+- **Complementos:** Capa o capa de elfo (para mejorar su sigilo) y polvos de distracción
+
+**Habilidad Especial:**
+
+- **Ataque Furtivo:** Si ataca a un enemigo que está distraído o flanqueado, añade daño extra.
+- **Maestría en Trampas:** Puede detectar y desactivar trampas con facilidad, clave en el Laberinto de Trampas.
+
+---
+
+## 4. Kael “El Justiciero” – Paladín (Juramento de la Devoción)
+
+**Rol:** Combatiente frontal y sanador, que combina la lucha cuerpo a cuerpo con poderes divinos para proteger y motivar al grupo.
+
+**Estadísticas (aproximadas):**
+
+- **Fuerza:** 16 (+3)
+- **Destreza:** 10 (+0)
+- **Constitución:** 14 (+2)
+- **Inteligencia:** 10 (+0)
+- **Sabiduría:** 12 (+1)
+- **Carisma:** 16 (+3)
+
+**Puntos de Golpe:** ~45  
+**Clase de Armadura:** 18 (Armadura completa y escudo)
+
+**Equipo y Armas:**
+
+- **Armadura:** Armadura completa
+- **Escudo:** +2 a CA
+- **Arma principal:** Espada larga o maza
+  - *Ataque:* +6; Daño: 1d8+3 contundente o cortante
+- **Arma secundaria:** Jabalinas o ballesta ligera (para ataques a distancia)
+- **Equipo adicional:** Símbolo sagrado, pociones curativas y pergaminos de bendición
+- **Hechizos de Paladín:** *Bendición*, *Curar Heridas*, *Escudo de la Fe*, *Golpe Divino*
+
+**Habilidad Especial:**
+
+- **Divina Inspiración:** Puede usar su aura para inspirar a sus aliados, otorgando ventajas en ataques o salvaciones, además de canalizar energía divina para infligir daño extra a los enemigos.
+
+---
+
+## 5. Thalia “La Furtiva” – Guardabosques
+
+**Rol:** Exploradora y rastreadora, experta en la supervivencia y en el ataque a distancia, con un fuerte enfoque en la observación y la movilidad.
+
+**Estadísticas (aproximadas):**
+
+- **Fuerza:** 10 (+0)
+- **Destreza:** 16 (+3)
+- **Constitución:** 14 (+2)
+- **Inteligencia:** 10 (+0)
+- **Sabiduría:** 16 (+3)
+- **Carisma:** 8 (–1)
+
+**Puntos de Golpe:** ~40  
+**Clase de Armadura:** 14–15 (Armadura de cuero tachonado o de cota de mallas ligera)
+
+**Equipo y Armas:**
+
+- **Arma principal:** Arco largo
+  - *Ataque:* +7; Daño: 1d8+3 perforante
+- **Armas cuerpo a cuerpo:** Dos espadas cortas o dagas
+  - *Ataque:* +7; Daño: 1d6+3 perforante
+- **Equipo adicional:** Botiquín de supervivencia, kit de explorador, cuerdas y trampas rudimentarias
+- **Habilidades extras:** Conocimiento en rastreo, supervivencia y detección de trampas, además de algunos conjuros menores de guardabosques (como *Salva de Flechas* o *Paso Sin Rastro*).
+
+**Habilidad Especial:**
+
+- **Rastreadora Natural:** Tiene ventaja en tiradas de Sabiduría para detectar pistas, seguir rastros y anticipar emboscadas, lo cual es clave en los recorridos de la torre y en la detección de trampas.
+
+---
+
+### Integración en la Aventura
+
+Cada uno de estos personajes está pensado para aprovechar diferentes aspectos de la aventura:
+
+- **Thorin y Kael** pueden encargarse de la línea frontal en combates intensos (enfrentando guardianes, mercenarios y el jefe).
+- **Eldrin** ofrece control y explosiones mágicas, revelando vulnerabilidades en los enemigos o trampas.
+- **Lyra** es ideal para la exploración sigilosa y la desactivación de trampas en el Laberinto, además de emboscar a enemigos en el Umbral o en emboscadas.
+- **Thalia** complementa la detección de peligros, el seguimiento de movimientos enemigos y aporta potencia a distancia, siendo esencial para emboscadas o para apoyar desde lejos.
+
+La diversidad de roles obliga al grupo a colaborar: deberán coordinar ataques, compartir información sobre trampas o debilidades y utilizar el entorno a su favor. La combinación de fuerza bruta, magia, sigilo, sanación y exploración garantiza que cada encuentro de la Torre del Estratega se convierta en un reto táctico en el que todos tengan un papel vital.
+
+¡Espero que estos personajes encajen perfectamente en tu aventura de lucha y estrategia en D&D5 y que fomenten una experiencia de juego colaborativa y memorable!
