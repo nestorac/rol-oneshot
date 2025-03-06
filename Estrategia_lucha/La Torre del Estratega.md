@@ -601,6 +601,8 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 
 ## 3. Lyra “La Sombra” – Pícara (Arcane Trickster)
 
+
+
 **Rol:** Especialista en infiltración, desactivación de trampas y ataques sorpresa. Su agilidad le permite aprovechar el entorno para emboscar enemigos.
 
 **Estadísticas (aproximadas):**
