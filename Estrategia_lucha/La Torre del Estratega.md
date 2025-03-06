@@ -4,18 +4,24 @@
 
 Los personajes son un grupo de aventureros contratados para ascender la enigmática Torre del Estratega, una estructura antigua llena de trampas, secretos y guardianes creados para probar la capacidad de adaptación y la astucia de quienes se atreven a desafiarla. Cada nivel presenta un reto único, obligando a los PJ a estudiar a sus enemigos, ajustar su equipo y aprovechar el entorno para sobrevivir.
 
+**Este documento se basa en las reglas de D&D5.**
+
+**En esta partida, se puede volver atrás en el tiempo para deshacer acciones.**
+
 ## Encuentro 1: El Umbral de la Torre
 
 **Objetivo:** Familiarizarse con las mecánicas básicas de combate, la iniciativa y el uso del entorno.  
-**Ambientación y Enemigos:**
 
-- **Ambiente:** Un vestíbulo en ruinas con columnas derruidas, zonas de cobertura y pasillos estrechos.
-- **Enemigos:** Un grupo de guardianes menores (por ejemplo, goblins o kobolds) que patrullan el área de entrada.  
-  **Dinámica:**
+### Ambientación y enemigos
+
+**Ambiente:** un vestíbulo en ruinas con columnas derruidas, zonas de cobertura y pasillos estrechos.
+
+**Enemigos:** un grupo de guardianes menores (por ejemplo, goblins o kobolds) que patrullan el área de entrada.  
+**Dinámica:**
+
 - Introducir la importancia de la posición y la iniciativa.
-- Permitir tiradas de ataque, salvación y pruebas de Destreza al desplazarse por un terreno irregular.
 
-Aquí tienes una ampliación detallada del primer encuentro, diseñada para introducir a los jugadores a la importancia de la posición, el uso del entorno y la coordinación en el combate, sin necesidad de imprimir grandes mapas en alta resolución.
+- Permitir tiradas de ataque, salvación y pruebas de Destreza al desplazarse por un terreno irregular.
 
 ### Objetivo
 
@@ -30,33 +36,37 @@ Los personajes llegan a la imponente entrada de la Torre del Estratega. El vest�
 
 ### Enemigos
 
-- **Guardianes Menores:** 4 goblins (o kobolds, según la preferencia) que se despliegan en el área.
-- **Características:**
-  - **Defensa baja:** Son rápidos pero poco coordinados.
-  - **Punto débil sugerido:** Algunos pueden tener armaduras improvisadas que no protegen bien de ataques a distancia o de elementos precisos (ideal para que los jugadores exploren distintas estrategias).
+**Guardianes Menores:** 4 goblins (o kobolds, según la preferencia) que se despliegan en el área.
+
+**Características:**
+
+- **Defensa baja:** son rápidos pero poco coordinados.
+- **Punto débil sugerido:** algunos pueden tener armaduras improvisadas que no protegen bien de ataques a distancia o de elementos precisos (ideal para que los jugadores exploren distintas estrategias).
 
 ### Dinámica del Encuentro
 
-1. **Posicionamiento Inicial:**
-   
-   - Los enemigos se sitúan en puntos estratégicos detrás de columnas o entre escombros.
-   - Los jugadores deben elegir si enfrentan a los enemigos de frente o utilizar el terreno para flanquearlos.
+**Posicionamiento Inicial:**
 
-2. **Uso del Terreno:**
-   
-   - Las columnas y escombros ofrecen cobertura que puede proporcionar bonificaciones a la defensa.
-   - Se pueden realizar tiradas de Destreza para moverse sin ser detectado o para reposicionarse durante el combate.
+- Los enemigos se sitúan en puntos estratégicos detrás de columnas o entre escombros.
+- Los jugadores deben elegir si enfrentan a los enemigos de frente o utilizar el terreno para flanquearlos.
 
-3. **Interacción con el Entorno:**
-   
-   - Se pueden incluir elementos interactivos sencillos, como una gran puerta medio derrumbada que, al empujarla, puede entorpecer el avance de los enemigos o crear un obstáculo temporal.
-   - Los jugadores pueden realizar tiradas de Investigación o Percepción para identificar posibles puntos débiles en la formación enemiga o en el entorno (por ejemplo, una columna suelta que podría derrumbarse).
+**Uso del Terreno:**
+
+- Las columnas y escombros ofrecen cobertura que puede proporcionar bonificaciones a la defensa.
+- Se pueden realizar tiradas de Destreza para moverse sin ser detectado o para reposicionarse durante el combate.
+
+**Interacción con el Entorno:**
+
+- Se pueden incluir elementos interactivos sencillos, como una gran puerta medio derrumbada que, al empujarla, puede entorpecer el avance de los enemigos o crear un obstáculo temporal.
+- Los jugadores pueden realizar tiradas de Investigación o Percepción para identificar posibles puntos débiles en la formación enemiga o en el entorno (por ejemplo, una columna suelta que podría derrumbarse).
 
 ### Recompensas y Aprendizajes
 
-- **Aprendizaje de la iniciativa:** La rapidez para posicionarse puede determinar quién tiene la ventaja en el combate.
-- **Uso de la cobertura:** Experimentar con coberturas naturales y comprender cómo influyen en la defensa y la ofensiva.
-- **Flexibilidad táctica:** Incentivar a los jugadores a comunicarse y adaptarse según la situación, aprovechando cada elemento del escenario.
+**Aprendizaje de la iniciativa:** la rapidez para posicionarse puede determinar quién tiene la ventaja en el combate.
+
+**Uso de la cobertura:** experimentar con coberturas naturales y comprender cómo influyen en la defensa y la ofensiva.
+
+**Flexibilidad táctica:** incentivar a los jugadores a comunicarse y adaptarse según la situación, aprovechando cada elemento del escenario.
 
 ---
 
@@ -64,13 +74,15 @@ Los personajes llegan a la imponente entrada de la Torre del Estratega. El vest�
 
 ![](Figure_1.png)
 
-El mapa muestra:
+**El contorno del vestíbulo:** Con un rectángulo de fondo.
 
-- **El contorno del vestíbulo:** Con un rectángulo de fondo.
-- **La entrada principal:** Señalada en la parte superior central.
-- **Columnas (cobertura):** Dibujadas como círculos en posiciones estratégicas.
-- **Posiciones de los goblins:** Indicadas por círculos de color distintivo.
-- **Elementos del entorno:** Líneas y curvas para representar muros derrumbados o barreras.
+**La entrada principal:** Señalada en la parte superior central.
+
+**Columnas (cobertura):** Dibujadas como círculos en posiciones estratégicas.
+
+**Posiciones de los goblins:** Indicadas por círculos de color distintivo.
+
+**Elementos del entorno:** Líneas y curvas para representar muros derrumbados o barreras.
 
 ## Encuentro 2: El Laberinto de Trampas
 
@@ -81,255 +93,255 @@ El mapa muestra:
 - **Desafíos:**
   - Trampas activadas por el peso o el movimiento, obligando a los jugadores a realizar tiradas de Destreza y Percepción.
   - Un enigma o mecanismo que, al resolverse correctamente, desactiva parte de las trampas o abre un acceso seguro.  
-    **Dinámica:**
-- Incentivar el uso de habilidades no combativas y la coordinación para que algunos personajes vigilen mientras otros exploran o desactivan las trampas.
-
-Aquí tienes una ampliación completa para el segundo encuentro, "El Laberinto de Trampas", junto con un mapa ilustrado que combina líneas rectas, curvas y colores para representar el entorno de forma elegante y clara.
+- **Dinámica:** Incentivar el uso de habilidades no combativas y la coordinación para que algunos personajes vigilen mientras otros exploran o desactivan las trampas.
 
 ### Objetivo
 
 Este encuentro está diseñado para poner a prueba las habilidades de percepción, destreza y coordinación de los jugadores, obligándolos a sortear trampas mecánicas y resolver un enigma para avanzar sin activar peligros mayores. Se destaca la importancia de la observación y la cooperación para desactivar mecanismos y encontrar rutas seguras.
 
-### Ambientación y Narrativa
+### Ambientación y narrativa
 
 Los personajes se adentran en un pasillo laberíntico y oscuro, en el que el suelo, las paredes y el techo muestran signos de deterioro. A lo largo del recorrido, varios mecanismos ocultos y trampas esperan ser descubiertos. Entre ellos, unas placas de presión, pinchos ocultos y palancas que pueden modificar el entorno para desactivar o activar trampas.
-
-**Narrativa sugerida:**  
-*"El aire se vuelve más frío y tenso al internarse en este corredor abandonado. Las sombras se alargan y, en cada esquina, parece haber algo fuera de lugar. Una serie de inscripciones y mecanismos en las paredes insinúan que el camino es tan traicionero como enigmático. ¿Serán capaces de detectar las trampas y encontrar el camino seguro?"*
+*"El aire se vuelve más frío y tenso al internarse en este corredor abandonado. Las sombras se alargan y, en cada esquina, parece haber algo fuera de lugar. Una serie de inscripciones y mecanismos en las paredes insinúan que el camino es tan traicionero como enigmático.*
 
 ### Desafíos y Mecánicas
 
-- **Trampas Activas:**
-  - Placas de presión en el suelo que al pisarlas pueden activar una lluvia de dardos o hacer caer pinchos.
-  - Trampas ocultas en las paredes, detectables con tiradas de Percepción o Investigación.
-- **Enigma Mecánico:**
-  - Una palanca o serie de interruptores que, al activarse en el orden correcto, desactiva parte de las trampas y abre un pasaje seguro.
-- **Zona Segura:**
-  - Un breve espacio en el laberinto que permite a los jugadores reagruparse y planificar su siguiente movimiento, fomentando la comunicación y la estrategia.
+**Trampas activas:**
+
+- Placas de presión en el suelo que al pisarlas pueden activar una lluvia de dardos o hacer caer pinchos.
+- Trampas ocultas en las paredes, detectables con tiradas de Percepción o Investigación.
+
+**Enigma mecánico:** Una palanca o serie de interruptores que, al activarse en el orden correcto, desactiva parte de las trampas y abre un pasaje seguro.
+
+**Zona segura:** Un breve espacio en el laberinto que permite a los jugadores reagruparse y planificar su siguiente movimiento, fomentando la comunicación y la estrategia.
 
 ### Dinámica del Encuentro
 
-1. **Exploración Cautelosa:**
-   - Los personajes deberán avanzar despacio, utilizando habilidades de Percepción e Investigación para identificar trampas antes de activarlas.
-2. **Resolución de Enigma:**
-   - Al encontrar una serie de palancas o interruptores, se les presentará un enigma (por ejemplo, basarse en inscripciones antiguas o patrones en el entorno) que, al resolverse, desactiva las trampas más letales.
-3. **Coordinación en Movimiento:**
-   - La disposición del laberinto favorecerá que algunos personajes se adelanten para comprobar la seguridad, mientras otros vigilan o se posicionan para ayudar a desactivar trampas en grupo.
+**Exploración Cautelosa:** Los personajes deberán avanzar despacio, utilizando habilidades de Percepción e Investigación para identificar trampas antes de activarlas.
+
+**Resolución de Enigma:** Al encontrar una serie de palancas o interruptores, se les presentará un enigma (por ejemplo, basarse en inscripciones antiguas o patrones en el entorno) que, al resolverse, desactiva las trampas más letales.
+
+**Coordinación en Movimiento:** La disposición del laberinto favorecerá que algunos personajes se adelanten para comprobar la seguridad, mientras otros vigilan o se posicionan para ayudar a desactivar trampas en grupo.
 
 ### Recompensas y Aprendizajes
 
-- **Importancia de la Percepción:** Los jugadores aprenderán a valorar las tiradas de Percepción e Investigación para evitar daños y encontrar pistas.
-- **Resolución de Problemas:** La necesidad de resolver un enigma refuerza el juego en equipo y la aplicación creativa de habilidades.
-- **Gestión del Riesgo:** La planificación cuidadosa y el movimiento coordinado se vuelven esenciales para superar el recorrido sin caer en trampas fatales.
+**Importancia de la Percepción:** Los jugadores aprenderán a valorar las tiradas de Percepción e Investigación para evitar daños y encontrar pistas.
+
+**Resolución de Problemas:** La necesidad de resolver un enigma refuerza el juego en equipo y la aplicación creativa de habilidades.
+
+**Gestión del Riesgo:** La planificación cuidadosa y el movimiento coordinado se vuelven esenciales para superar el recorrido sin caer en trampas fatales.
 
 ## Mapa Esquemático del Laberinto de Trampas
 
 ![](Figure_2.png)
 
-### Explicación del Mapa
+**Contorno del Laberinto:** Un gran rectángulo delimita el área del laberinto, representando las paredes exteriores.
 
-- **Contorno del Laberinto:** Un gran rectángulo delimita el área del laberinto, representando las paredes exteriores.
-- **Camino Principal y Giros:** La línea central y las curvas (dibujadas con arcos) simulan el recorrido laberíntico que los personajes deben explorar.
-- **Trampas:** Las áreas en color rojo (con transparencia) indican zonas de riesgo, como placas de presión o trampas mecánicas.
-- **Zona Segura:** Un área marcada en verde pálido permite a los jugadores reagruparse y planificar sus movimientos.
-- **Elemento Interactivo:** Una palanca en color azul que simboliza el enigma mecánico que, al resolverse, desactiva algunas trampas.
+**Camino Principal y Giros:** La línea central y las curvas (dibujadas con arcos) simulan el recorrido laberíntico que los personajes deben explorar.
 
-## Encuentro 3: La Emboscada de las Sombras
+**Trampas:** Las áreas en color rojo (con transparencia) indican zonas de riesgo, como placas de presión o trampas mecánicas.
+
+**Zona Segura:** Un área marcada en verde pálido permite a los jugadores reagruparse y planificar sus movimientos.
+
+**Elemento Interactivo:** Una palanca en color azul que simboliza el enigma mecánico que, al resolverse, desactiva algunas trampas.
+
+## Encuentro 3: La emboscada de las sombras
 
 **Objetivo:** Enfatizar la importancia del sigilo, la detección y el uso de la iluminación y el terreno a favor propio.  
 **Ambientación y Enemigos:**
 
-- **Ambiente:** Un corredor oscuro iluminado solo por antorchas dispersas, con zonas de sombra donde se ocultan los peligros.
-- **Enemigos:** Criaturas etéreas o espectros que se mueven silenciosamente, aprovechando la oscuridad para atacar por sorpresa.  
-  **Dinámica:**
+**Ambiente:** Un corredor oscuro iluminado solo por antorchas dispersas, con zonas de sombra donde se ocultan los peligros.
+
+**Enemigos:** Criaturas etéreas o espectros que se mueven silenciosamente, aprovechando la oscuridad para atacar por sorpresa.  
+**Dinámica:**
+
 - Permitir tiradas de Sigilo, Percepción e Investigación para que los PJ descubran los patrones de ataque y la posición oculta de los enemigos.
 - Incentivar el uso de hechizos o habilidades que generen luz o revelen lo oculto, evidenciando cómo el entorno puede volverse una ventaja táctica.
-
-A continuación, te presento una ampliación completa para el tercer encuentro, "La Emboscada de las Sombras", junto con un mapa ilustrado diseñado con líneas rectas, curvas y colores. Este encuentro se centra en la atmósfera oscura, el uso estratégico de la iluminación y las sombras, y en la detección de enemigos etéreos que se ocultan en la penumbra.
 
 ### Objetivo
 
 En este encuentro, los personajes se adentran en un corredor oscuro donde la iluminación es escasa y la mayoría del espacio está sumido en sombras. El objetivo es enfatizar la importancia del sigilo, la percepción y el uso estratégico del entorno. Los jugadores deberán hacer tiradas de Sigilo y Percepción para detectar a los enemigos espectrales, que se ocultan en áreas de sombra, y utilizar la luz (por ejemplo, antorchas o hechizos) para disipar la oscuridad y revelar sus posiciones.
 
-### Ambientación y Narrativa
+### Ambientación y narrativa
 
 El grupo avanza por un pasillo de la torre donde el ambiente se torna inquietante. La única fuente de luz proviene de algunas antorchas dispersas en el corredor, generando manchas de luminosidad que contrastan fuertemente con las zonas en completa penumbra. En estas sombras, se esconden espectros que aprovechan la oscuridad para emboscar a los aventureros. La tensión aumenta mientras cada paso podría revelar un peligro oculto.
 
-**Narrativa sugerida:**  
 *"La penumbra se espesa a medida que avanzan por el corredor. Apenas unos haces de luz de las antorchas cortan la oscuridad, revelando formas vagamente humanas que se deslizan entre las sombras. ¿Serán capaces de descubrir la posición de estos espectros antes de que sus ataques les sorprendan?"*
 
 ### Enemigos
 
-- **Espectros:**
-  - Apariencia fantasmal, difuminados y etéreos.
-  - Se camuflan en las zonas de sombra, volviéndose difíciles de detectar a simple vista.
-  - Vulnerables a la luz y a ataques que aprovechen su falta de resistencia física.
+**Espectros:**
+
+- Apariencia fantasmal, difuminados y etéreos.
+- Se camuflan en las zonas de sombra, volviéndose difíciles de detectar a simple vista.
+- Vulnerables a la luz y a ataques que aprovechen su falta de resistencia física.
 
 ### Dinámica del Encuentro
 
-1. **Exploración en la Oscuridad:**
-   - Los personajes deberán avanzar con cautela, utilizando tiradas de Percepción y Sigilo para identificar las áreas donde se ocultan los espectros.
-2. **Gestión de la Iluminación:**
-   - Se fomentará el uso de antorchas, hechizos de luz u otros recursos que puedan iluminar el entorno, revelando temporalmente a los enemigos ocultos.
-3. **Ataques Sorpresa:**
-   - Los espectros realizarán emboscadas aprovechando la oscuridad, lo que obligará a los jugadores a adaptarse rápidamente y a coordinarse para evitar ser superados.
+**Exploración en la oscuridad:** los personajes deberán avanzar con cautela, utilizando tiradas de Percepción y Sigilo para identificar las áreas donde se ocultan los espectros.
+
+**Camina por la sombra:** se fomentará el uso de antorchas, hechizos de luz u otros recursos que puedan iluminar el entorno, revelando temporalmente a los enemigos ocultos.
+
+**Ataques Sorpresa:** los espectros realizarán emboscadas aprovechando la oscuridad, lo que obligará a los jugadores a adaptarse rápidamente y a coordinarse para evitar ser superados.
 
 ### Recompensas y Aprendizajes
 
-- **Valoración de la Percepción:** La necesidad de identificar amenazas ocultas refuerza la importancia de las tiradas de Percepción.
-- **Uso Táctico de la Luz:** Los jugadores aprenderán a utilizar elementos ambientales (como antorchas o hechizos) para transformar el terreno a su favor.
-- **Estrategia de Sigilo y Coordinación:** La combinación de movimientos cautelosos y acciones coordinadas será clave para superar la emboscada.
+**Valoración de la Percepción:** la necesidad de identificar amenazas ocultas refuerza la importancia de las tiradas de Percepción.
 
-## Mapa Ilustrado del Corredor Oscuro
+**Uso Táctico de la Luz:** los jugadores aprenderán a utilizar elementos ambientales (como antorchas o hechizos) para transformar el terreno a su favor.
+
+**Estrategia de Sigilo y Coordinación:** la combinación de movimientos cautelosos y acciones coordinadas será clave para superar la emboscada.
+
+## Mapa del corredor oscuro
 
 El siguiente código en Python utiliza matplotlib para generar un mapa elegante que representa el corredor oscuro con áreas iluminadas, zonas de sombra y posiciones de los espectros:
 
 ![](Figure_3.png)
 
-### Explicación del Mapa
+**Fondo oscuro:** El corredor está en penumbra, aunque en el mapa para imprimir sea blanco.
 
-- **Fondo Oscuro:** El corredor se representa con un rectángulo de color gris oscuro para reflejar la penumbra.
-- **Antorchas y Áreas Iluminadas:** Se ubican en puntos estratégicos para evidenciar cómo la luz disipa la oscuridad en áreas limitadas.
-- **Zonas de Sombra:** Las áreas en negro intenso indican lugares donde los espectros se ocultan, obligando a los jugadores a actuar con cautela.
-- **Espectros:** Están marcados con círculos de tono púrpura, representando enemigos que se aprovechan de la oscuridad para emboscar.
+**Antorchas y áreas iluminadas:** Se ubican en puntos estratégicos para evidenciar cómo la luz disipa la oscuridad en áreas limitadas.
 
-## Encuentro 4: El Duelo Táctico
+**Zonas de sombra:** Las áreas en negro intenso indican lugares donde los espectros se ocultan, obligando a los jugadores a actuar con cautela.
 
-**Objetivo:** Profundizar en la coordinación y la adaptación táctica, utilizando el terreno y la combinación de habilidades y equipo.  
-**Ambientación y Enemigos:**
+**Espectros:** Están marcados con círculos de tono púrpura, representando enemigos que se aprovechan de la oscuridad para emboscar.
 
-- **Ambiente:** Una sala amplia con estructuras colapsadas, plataformas elevadas y zonas que obligan a maniobras precisas.
-- **Enemigos:** Un grupo de mercenarios o esqueletos reanimados organizados en formaciones, que se adaptan rápidamente al flujo del combate.  
-  **Dinámica:**
-- Enfrentar a los jugadores a un combate dinámico donde cada posición y movimiento cuente.
-- Permitir que algunas áreas ofrezcan ventajas (como coberturas o puntos elevados) para ataques a distancia, obligando a que el grupo se coordine y aproveche el terreno para flanquear a los enemigos.
-- Posibilitar el ajuste del equipo entre enfrentamientos, permitiendo a los jugadores cambiar tácticas o preparar conjuros específicos en función de las debilidades observadas en los oponentes.
+## Encuentro 4: duelo táctico
 
-A continuación, se presenta una ampliación completa para el cuarto encuentro, "El Duelo Táctico", junto con un mapa ilustrado diseñado con líneas, curvas y colores. Este encuentro pone a prueba la coordinación y la adaptación táctica de los jugadores en un espacio complejo, repleto de obstáculos y zonas estratégicas que deben ser aprovechadas tanto para la ofensiva como para la defensa.
+**Objetivo:** Profundizar en la coordinación y la adaptación táctica, utilizando el terreno y la combinación de habilidades y equipo.
 
-## Encuentro 4: El Duelo Táctico – Ampliación
+### **Ambientación y enemigos**
+
+**Ambiente:** Una sala amplia con estructuras colapsadas, plataformas elevadas y zonas que obligan a maniobras precisas.
+
+**Enemigos:** Un grupo de mercenarios o esqueletos reanimados organizados en formaciones, que se adaptan rápidamente al flujo del combate. 
+
+#### **Dinámica**
+
+Enfrentar a los jugadores a un combate dinámico donde cada posición y movimiento cuente.
+
+Permitir que algunas áreas ofrezcan ventajas (como coberturas o puntos elevados) para ataques a distancia, obligando a que el grupo se coordine y aproveche el terreno para flanquear a los enemigos.
+
+Posibilitar el ajuste del equipo entre enfrentamientos, permitiendo a los jugadores cambiar tácticas o preparar conjuros específicos en función de las debilidades observadas en los oponentes.
 
 ### Objetivo
 
 El propósito de este encuentro es desafiar a los personajes a coordinar sus movimientos y acciones en un entorno dinámico. La sala cuenta con zonas elevadas, obstáculos derrumbados y áreas que obligan a maniobras precisas. Los jugadores deberán usar el terreno a su favor para flanquear a los enemigos, protegerse de ataques coordinados y adaptarse rápidamente a los cambios del combate.
 
-### Ambientación y Narrativa
+### Ambientación y narrativa
 
 Los aventureros se adentran en una sala amplia, antiguamente un gran salón o vestíbulo, que ahora se encuentra parcialmente derrumbada. Columnas caídas, muros agrietados y plataformas elevadas se intercalan en el espacio, creando áreas de cobertura y puntos estratégicos. En este ambiente caótico, un grupo de mercenarios o esqueletos reanimados se dispone en formaciones, listos para explotar cualquier debilidad en la coordinación de los PJ.
 
-**Narrativa sugerida:**  
 *"Al ingresar al gran salón, notan que el lugar parece haber sido testigo de épicas batallas pasadas. Columnas derrumbadas y escombros se mezclan con secciones aún en pie, ofreciendo oportunidades para moverse y atacar desde posiciones inesperadas. Los enemigos, organizados y letales, se mueven con rapidez, obligándolos a planificar cada acción con precisión."*
 
-### Enemigos y Dinámica del Combate
+### Enemigos y dinámica de combate
 
-- **Enemigos:** Un grupo de mercenarios o esqueletos reanimados, organizados en formaciones.
-- **Dinámica:**
-  - **Cobertura y Obstáculos:** El entorno ofrece numerosas coberturas: escombros, columnas caídas y plataformas elevadas que deben ser aprovechadas para protegerse o flanquear.
-  - **Movilidad y Coordinación:** El combate se vuelve fluido, requiriendo constantes movimientos para evitar quedar expuestos.
-  - **Adaptación del Terreno:** Algunos obstáculos pueden moverse o derrumbarse tras ciertos impactos, cambiando la configuración del campo de batalla en pleno combate.
+**Enemigos:** un grupo de mercenarios o esqueletos reanimados, organizados en formaciones.
+
+#### Dinámica
+
+**Cobertura y Obstáculos:** el entorno ofrece numerosas coberturas: escombros, columnas caídas y plataformas elevadas que deben ser aprovechadas para protegerse o flanquear.
+
+**Movilidad y Coordinación:** el combate se vuelve fluido, requiriendo constantes movimientos para evitar quedar expuestos.
+
+**Adaptación del Terreno:** algunos obstáculos pueden moverse o derrumbarse tras ciertos impactos, cambiando la configuración del campo de batalla en pleno combate.
 
 ### Recompensas y Aprendizajes
 
-- **Coordinación de Equipo:** Los jugadores deberán comunicarse y coordinar sus movimientos para maximizar el uso del terreno.
-- **Adaptación Táctica:** Se enfatiza la importancia de ajustar estrategias en tiempo real, aprovechando las coberturas y anticipando el movimiento del enemigo.
-- **Uso del Entorno:** Aprenderán a identificar puntos estratégicos que otorgan ventajas ofensivas y defensivas, como plataformas elevadas o barreras naturales.
+**Coordinación de equipo:** Los jugadores deberán comunicarse y coordinar sus movimientos para maximizar el uso del terreno.
 
-## Mapa Ilustrado del Gran Salón
+**Adaptación táctica:** Se enfatiza la importancia de ajustar estrategias en tiempo real, aprovechando las coberturas y anticipando el movimiento del enemigo.
 
-El siguiente código en Python utiliza matplotlib para generar un mapa elegante del gran salón, que representa el entorno con líneas rectas, curvas y colores para diferenciar las áreas estratégicas y los obstáculos.
+**Uso del entorno:** Aprenderán a identificar puntos estratégicos que otorgan ventajas ofensivas y defensivas, como plataformas elevadas o barreras naturales.
+
+## Mapa del Gran Salón
 
 ![](Figure_4.png)
 
-### Explicación del Mapa
+**Contorno del Gran Salón:** Representado por un gran rectángulo, define el área del combate.
 
-- **Contorno del Gran Salón:** Representado por un gran rectángulo, define el área del combate.
-- **Obstáculos Internos:**
-  - **Columnas Derrumbadas:** Creadas como círculos, ofrecen cobertura y se sitúan en posiciones estratégicas.
-  - **Escombros:** Rectángulos que simulan áreas bloqueadas o que pueden servir de cobertura.
-  - **Plataforma Elevada:** Una zona diferenciada que otorga ventaja para ataques a distancia o para observar el campo de batalla.
-- **Líneas Divisorias:** Las líneas punteadas muestran muros derrumbados o zonas que separan áreas, obligando a los jugadores a adaptarse en sus movimientos.
-- **Posiciones de los Enemigos:** Los círculos rojos indican dónde se encuentran inicialmente los adversarios, promoviendo la necesidad de flanquear o coordinar ataques.
+**Obstáculos Internos:**
+
+- **Columnas Derrumbadas:** Creadas como círculos, ofrecen cobertura y se sitúan en posiciones estratégicas.
+- **Escombros:** Rectángulos que simulan áreas bloqueadas o que pueden servir de cobertura.
+- **Plataforma Elevada:** Una zona diferenciada que otorga ventaja para ataques a distancia o para observar el campo de batalla.
+
+**Líneas Divisorias:** Las líneas punteadas muestran muros derrumbados o zonas que separan áreas, obligando a los jugadores a adaptarse en sus movimientos.
+
+**Posiciones de los Enemigos:** Los círculos rojos indican dónde se encuentran inicialmente los adversarios, promoviendo la necesidad de flanquear o coordinar ataques.
 
 ## Encuentro 5: El Enfrentamiento del Maestro de la Estrategia (Jefe Final)
 
 **Objetivo:** Culminar la sesión con un desafío complejo que combine habilidades, estrategia en equipo y el aprovechamiento de debilidades específicas.  
-**Ambientación y Enemigo:**
 
-- **Ambiente:** Una gran sala del trono con estructuras colapsadas, zonas de cobertura y elementos interactivos (por ejemplo, mecanismos que activen trampas a favor de los jugadores o en detrimento del jefe).
-- **Enemigo:** El Maestro de la Estrategia, un jefe con múltiples fases (por ejemplo, un caballero espectral o un hechicero caído) que usa tanto ataques a distancia como cuerpo a cuerpo.  
-  **Fases del Combate:**
-1. **Fase Inicial:**
-   - El jefe utiliza ataques combinados y tiene defensas moderadas.
-   - Los jugadores deben identificar patrones de ataque y aprovechar la cobertura del entorno.
-2. **Fase de Adaptación:**
-   - Al recibir un porcentaje del daño total, el jefe activa habilidades especiales (como un aura que reduce daños físicos o convoca esbirros temporales).
-   - Se ofrecen indicios sobre una vulnerabilidad oculta: por ejemplo, una parte de su armadura que resplandece brevemente.
-3. **Fase Final:**
-   - La vulnerabilidad se expone durante un corto periodo.
-   - El éxito depende de que el equipo coordine sus acciones para concentrar ataques y explotar ese punto débil, utilizando habilidades, conjuros o tácticas previamente aprendidas.  
-     **Dinámica:**
-- Este encuentro pone a prueba todo lo aprendido en la torre: análisis del enemigo, uso estratégico del entorno, coordinación táctica y adaptación rápida a cambios en el combate.
-- Es el momento de celebrar la victoria a través del trabajo en equipo y la implementación efectiva de las estrategias descubiertas a lo largo de la aventura.
+### Ambientación y Enemigo
 
-A continuación, te presento la ampliación completa para el encuentro final, "El Enfrentamiento del Maestro de la Estrategia (Jefe Final)", junto con un mapa ilustrado diseñado con líneas, curvas y colores. Este encuentro está pensado para combinar múltiples fases de combate, donde los jugadores deberán coordinarse y explotar las vulnerabilidades del jefe en un entorno lleno de elementos interactivos.
+**Ambiente:** Una gran sala del trono con estructuras colapsadas, zonas de cobertura y elementos interactivos (por ejemplo, mecanismos que activen trampas a favor de los jugadores o en detrimento del jefe).
+
+**Enemigo:** El Maestro de la Estrategia, un jefe con múltiples fases (por ejemplo, un caballero espectral o un hechicero caído) que usa tanto ataques a distancia como cuerpo a cuerpo.
 
 ### Objetivo
 
 El objetivo de este encuentro es desafiar a los personajes con un jefe que evoluciona durante la batalla. El Maestro de la Estrategia (por ejemplo, un caballero espectral o un hechicero caído) posee varias fases:
 
-1. **Fase Inicial:** Defiende sus ataques combinados, presentando un desafío moderado.
-2. **Fase de Adaptación:** Al recibir cierto porcentaje de daño, activa habilidades especiales o convoca esbirros, dificultando el combate y ofreciendo pistas sobre su debilidad.
-3. **Fase Final:** Durante un breve lapso, se expone una vulnerabilidad crítica que los jugadores deben explotar de manera coordinada para lograr la victoria.
+**Fase Inicial:** Defiende sus ataques combinados, presentando un desafío moderado.
 
-### Ambientación y Narrativa
+**Fase de Adaptación:** Al recibir cierto porcentaje de daño, activa habilidades especiales o convoca esbirros, dificultando el combate y ofreciendo pistas sobre su debilidad.
 
-El enfrentamiento tiene lugar en una gran sala del trono, antigua y majestuosa, pero ahora en ruinas. La sala presenta estructuras colapsadas, escombros y niveles de altura que permiten esconderse o posicionarse estratégicamente.  
-**Narrativa sugerida:**  
+**Fase Final:** Durante un breve lapso, se expone una vulnerabilidad crítica que los jugadores deben explotar de manera coordinada para lograr la victoria.
+
+### Ambientación y narrativa
+
+El enfrentamiento tiene lugar en una gran sala del trono, antigua y majestuosa, pero ahora en ruinas. La sala presenta estructuras colapsadas, escombros y niveles de altura que permiten esconderse o posicionarse estratégicamente.
+
 *"La gran sala del trono, que en su día albergó la gloria de un imperio, ahora es el escenario de un combate épico. El Maestro de la Estrategia se alza en el centro, rodeado de escombros y trampas mecánicas, mientras sus ataques y convocatorias de esbirros ponen a prueba la coordinación y el valor de los aventureros. En un parpadeo, se abre una oportunidad: una parte de su armadura brilla con una luz extraña. Este es el momento para unir fuerzas y atacar."*
 
 ### Dinámica del Encuentro
 
-- **Fase Inicial:**
-  - El jefe utiliza ataques mixtos (a distancia y cuerpo a cuerpo) y mantiene una defensa moderada.
-  - Los jugadores deben aprender sus patrones de ataque y posicionarse estratégicamente aprovechando el entorno (columnas, escombros, niveles de altura).
-- **Fase de Adaptación:**
-  - Al alcanzar un umbral de vida, el jefe activa una habilidad especial (por ejemplo, un aura que reduce el daño o convoca esbirros temporales).
-  - Se ofrecen indicios visuales de una vulnerabilidad: puede ser una parte de su armadura que se ilumina brevemente o un movimiento errático que deja un punto expuesto.
-- **Fase Final:**
-  - La vulnerabilidad se revela durante un corto periodo, donde la coordinación y el ataque concentrado son decisivos.
-  - Los jugadores tienen que aprovechar todos los recursos adquiridos en encuentros previos (uso del entorno, habilidades de percepción y coordinación en equipo).
+**Fase Inicial**
 
-### Recompensas y Aprendizajes
+- El jefe utiliza ataques mixtos (a distancia y cuerpo a cuerpo) y mantiene una defensa moderada.
+- Los jugadores deben aprender sus patrones de ataque y posicionarse estratégicamente aprovechando el entorno (columnas, escombros, niveles de altura).
 
-- **Coordinación y Comunicación:** La necesidad de coordinar ataques y defenderse simultáneamente enfatiza el trabajo en equipo.
-- **Adaptabilidad Táctica:** Los jugadores aprenderán a adaptarse a cambios rápidos en la situación de combate, analizando pistas y ajustando estrategias en tiempo real.
-- **Uso Integral del Entorno:** La sala del trono, con sus múltiples niveles y obstáculos, ofrece oportunidades para posicionarse, cubrirse y atacar desde ángulos inesperados.
+**Fase de Adaptación**
 
-## Mapa Ilustrado de la Sala del Trono (Encuentro Final)
+- Al alcanzar un umbral de vida, el jefe activa una habilidad especial (por ejemplo, un aura que reduce el daño o convoca esbirros temporales).
+- Se ofrecen indicios visuales de una vulnerabilidad: puede ser una parte de su armadura que se ilumina brevemente o un movimiento errático que deja un punto expuesto.
 
-A continuación, se presenta el código en Python con matplotlib para generar un mapa elegante del encuentro final:
+**Fase Final**
+
+- La vulnerabilidad se revela durante un corto periodo, donde la coordinación y el ataque concentrado son decisivos.
+- Los jugadores tienen que aprovechar todos los recursos adquiridos en encuentros previos (uso del entorno, habilidades de percepción y coordinación en equipo).
+
+### Recompensas y aprendizajes
+
+**Coordinación y comunicación:** La necesidad de coordinar ataques y defenderse simultáneamente enfatiza el trabajo en equipo.
+
+**Adaptabilidad táctica:** Los jugadores aprenderán a adaptarse a cambios rápidos en la situación de combate, analizando pistas y ajustando estrategias en tiempo real.
+
+**Uso Integral del entorno:** La sala del trono, con sus múltiples niveles y obstáculos, ofrece oportunidades para posicionarse, cubrirse y atacar desde ángulos inesperados.
+
+## Mapa de la Sala del Trono (encuentro final)
 
 ![](Figure_5.png)
 
-### Explicación del Mapa
+**Contorno de la Sala:** Un gran rectángulo define el espacio del combate, simulando las paredes y la estructura de la antigua sala del trono.
 
-- **Contorno de la Sala:** Un gran rectángulo define el espacio del combate, simulando las paredes y la estructura de la antigua sala del trono.
-- **Columnas y Escombros:** Se representan con círculos y rectángulos que actúan como cobertura o barreras estratégicas.
-- **Plataforma Elevada:** Una zona diferenciada que ofrece ventajas tácticas, ideal para ataques a distancia o para tener una mejor visión del campo.
-- **El Jefe Final:** Ubicado en el centro, se representa con un rectángulo y se le añade un círculo indicador (vulnerabilidad) que señala el momento crítico de la batalla.
-- **Esbirros y Muros Internos:** Líneas punteadas y posiciones de enemigos secundarios complementan la dinámica del combate, obligando a los jugadores a gestionar múltiples amenazas y aprovechar el entorno.
+**Columnas y Escombros:** Se representan con círculos y rectángulos que actúan como cobertura o barreras estratégicas.
+
+**Plataforma Elevada:** una zona diferenciada que ofrece ventajas tácticas, ideal para ataques a distancia o para tener una mejor visión del campo.
+
+**El jefe final:** ubicado en el centro, se representa con un rectángulo y se le añade un círculo indicador (vulnerabilidad) que señala el momento crítico de la batalla.
+
+**Esbirros y muros internos:** líneas punteadas y posiciones de enemigos secundarios complementan la dinámica del combate, obligando a los jugadores a gestionar múltiples amenazas y aprovechar el entorno.
 
 # Enemigos
 
-A continuación, te presento una propuesta para desarrollar cada tipo de enemigo que encontrarás a lo largo de la aventura en la Torre del Estratega. Las estadísticas, habilidades, armas y defensas están basadas en el sistema de D&D 5e, y puedes ajustarlas según el nivel y el estilo de juego de tu grupo.
-
----
-
-## 1. Guardian Goblin
+## 1. Guardián goblin
 
 *(Encuentro 1: El Umbral de la Torre)*
 
-**Descripción:**  
+**Descripción:**
 Estos goblins actúan como guardianes menores en la entrada de la torre. Son rápidos, escurridizos y aprovechan el terreno en ruinas para emboscar a los aventureros.
 
 **Estadísticas:**
@@ -340,18 +352,15 @@ Estos goblins actúan como guardianes menores en la entrada de la torre. Son rá
 
 **Atributos:**
 
-- Fuerza: 8 (–1)
-- Destreza: 14 (+2)
-- Constitución: 10 (+0)
-- Inteligencia: 10 (+0)
-- Sabiduría: 8 (–1)
-- Carisma: 8 (–1)
+| FUE    | DES     | CON | INT | SAB    | CAR    |
+|:------:|:-------:|:---:|:---:|:------:|:------:|
+| 8 (-1) | 14 (+2) | 10  | 10  | 8 (-1) | 8 (-1) |
 
-**Habilidades y Sentidos:**
+**Habilidades:** Sigilo +6, Percepción +2
 
-- **Habilidades:** Sigilo +6, Percepción +2
-- **Sentidos:** Visión en la oscuridad 60 pies; Percepción pasiva 11
-- **Idiomas:** Común, Goblin
+**Sentidos:** Visión en la oscuridad 60 pies; Percepción pasiva 11
+
+**Idiomas:** Común, Goblin
 
 **Ataques:**
 
@@ -366,15 +375,13 @@ Estos goblins actúan como guardianes menores en la entrada de la torre. Son rá
 
 - **Escape Ágil:** Puede tomar la acción de Desenganche o Esconderse como acción adicional en cada uno de sus turnos, lo que le permite reposicionarse rápidamente y aprovechar su entorno.
 
----
-
-## 2. Trampas del Laberinto
+## 2. Trampas del laberinto
 
 *(Encuentro 2: El Laberinto de Trampas)*
 
 Aunque no son "enemigos vivos", las trampas representan amenazas letales. Aquí dos ejemplos de trampas mecánicas:
 
-### a) Trampa de Placas de Presión (Dardos Ocultos)
+### a) Trampa de placas de presión (Dardos Ocultos)
 
 - **Detección:** Tirada de Percepción DC 13 para notar irregularidades en el suelo.
 - **Desarme:** Prueba de Herramientas de ladrón o Destreza DC 13.
@@ -383,7 +390,7 @@ Aunque no son "enemigos vivos", las trampas representan amenazas letales. Aquí 
   - Cada criatura en un área de 5×5 pies debe realizar una tirada de Destreza DC 13.
   - En fallo, recibe 2d6 de daño perforante; con éxito, la mitad.
 
-### b) Trampa de Pinchos
+### b) Trampa de pinchos
 
 - **Detección:** Tirada de Percepción DC 15 para descubrir la sección debilitada del suelo.
 - **Desarme:** Prueba de Destreza DC 15.
@@ -391,8 +398,6 @@ Aunque no son "enemigos vivos", las trampas representan amenazas letales. Aquí 
   - Al activarse, el suelo se abre y revela pinchos afilados.
   - Las criaturas en el área deben hacer una tirada de Destreza DC 15.
   - En fallo, reciben 3d6 de daño perforante; con éxito, la mitad.
-
----
 
 ## 3. Espectro Sombrío
 
@@ -409,12 +414,9 @@ Seres etéreos que se ocultan en la penumbra, emboscando a los personajes. Su fo
 
 **Atributos:**
 
-- Fuerza: 6 (–2)
-- Destreza: 14 (+2)
-- Constitución: 10 (+0)
-- Inteligencia: 10 (+0)
-- Sabiduría: 12 (+1)
-- Carisma: 17 (+3)
+| FUE    | DES     | CON | INT | SAB     | CAR     |
+|:------:|:-------:|:---:|:---:|:-------:|:-------:|
+| 6 (-2) | 14 (+2) | 10  | 10  | 12 (+1) | 17 (+3) |
 
 **Habilidades y Sentidos:**
 
@@ -435,8 +437,6 @@ Seres etéreos que se ocultan en la penumbra, emboscando a los personajes. Su fo
 
 - **Vulnerabilidad a la Luz:** Si se expone a luz brillante (por ejemplo, mediante un hechizo o una fuente de luz intensa), el espectro recibe 1d6 de daño adicional por cada ataque exitoso que lo impacte.
 
----
-
 ## 4. Mercenario Esquelético
 
 *(Encuentro 4: El Duelo Táctico)*
@@ -452,12 +452,9 @@ Estos combatientes reanimados son soldados caídos que han vuelto a la lucha. So
 
 **Atributos:**
 
-- Fuerza: 10 (+0)
-- Destreza: 14 (+2)
-- Constitución: 15 (+2)
-- Inteligencia: 6 (–2)
-- Sabiduría: 8 (–1)
-- Carisma: 5 (–3)
+| FUE | DES     | CON     | INT    | SAB    | CAR    |
+|:---:|:-------:|:-------:|:------:|:------:|:------:|
+| 10  | 14 (+2) | 15 (+2) | 6 (-2) | 8 (-1) | 5 (-3) |
 
 **Habilidades y Sentidos:**
 
@@ -472,13 +469,11 @@ Estos combatientes reanimados son soldados caídos que han vuelto a la lucha. So
 - **Habilidad Especial – Golpe Coordinado:**
   - Si al menos otro mercenario esquelético está adyacente al mismo objetivo, este ataque se realiza con ventaja.
 
----
-
 ## 5. Maestro de la Estrategia
 
 *(Encuentro Final: El Enfrentamiento del Jefe)*
 
-**Descripción:**  
+**Descripción:**
 El Maestro de la Estrategia es un enemigo formidable que ha perfeccionado el arte de la batalla. Con múltiples fases en el combate, desafía a los aventureros a adaptarse y coordinarse para descubrir su punto débil.
 
 **Estadísticas:**
@@ -489,12 +484,9 @@ El Maestro de la Estrategia es un enemigo formidable que ha perfeccionado el art
 
 **Atributos:**
 
-- Fuerza: 16 (+3)
-- Destreza: 12 (+1)
-- Constitución: 16 (+3)
-- Inteligencia: 14 (+2)
-- Sabiduría: 12 (+1)
-- Carisma: 18 (+4)
+| FUE     | DES     | CON     | INT     | SAB     | CAR     |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 16 (+3) | 12 (+1) | 16 (+3) | 14 (+2) | 12 (+1) | 18 (+4) |
 
 **Habilidades y Sentidos:**
 
@@ -518,14 +510,14 @@ El Maestro de la Estrategia es un enemigo formidable que ha perfeccionado el art
 
 - Una vez cada corto descanso, puede usar una acción adicional para inspirar a sus aliados en un radio de 30 pies, otorgándoles ventaja en los ataques hasta el inicio de su siguiente turno.
 
-**Fase de Cambio (Segunda Fase):**  
+**Fase de Cambio (Segunda Fase):**
 Cuando sus puntos de golpe caen a 75 o menos, el Maestro entra en una fase más agresiva:
 
 - **Pérdida del Escudo:** Su CA baja a 15.
 - **Ataque Adicional:** Gana un ataque extra en su turno.
 - **Indicador de Vulnerabilidad:** Durante 1 ronda, su punto débil (señalado en el mapa como “Debilidad”) queda expuesto; los ataques que impacten esa zona infligen 1d8 de daño adicional.
 
-**Acciones Legendarias (Opcional):**  
+**Acciones Legendarias (Opcional):**
 Puede tomar 2 acciones legendarias al final del turno de otro enemigo, eligiendo entre:
 
 - **Movimiento:** Desplazarse hasta la mitad de su velocidad sin provocar ataques de oportunidad.
@@ -533,14 +525,10 @@ Puede tomar 2 acciones legendarias al final del turno de otro enemigo, eligiendo
 
 **Legendary Resistance:** 1 vez al día para evitar quedar incapacitado por un efecto.
 
----
-
-**Esbirros del Maestro:**  
+**Esbirros del Maestro:**
 Durante el encuentro final, es posible que aparezcan esbirros (como mercenarios esqueléticos) que utilicen las mismas estadísticas que los Mercenarios Esqueléticos descritos, ayudando a complementar la dificultad del combate y obligando a los jugadores a gestionar múltiples amenazas.
 
-A continuación, te presento cinco personajes pre-generados (PJ) diseñados para afrontar los desafíos de la Torre del Estratega. Cada uno aporta un rol muy diferente—desde el combate frontal hasta la magia, el sigilo y el apoyo táctico—para que la colaboración sea clave en la aventura. Puedes ajustar sus niveles o detalles según el reto que quieras proponer (se asume que son de nivel 5, por ejemplo).
-
----
+# Personajes Jugadores (PJ)
 
 ## 1. Thorin “El Férreo” – Guerrero (Battle Master)
 
@@ -552,7 +540,7 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 |:-------:|:-------:|:-------:|:---:|:-------:|:---:|
 | 16 (+3) | 14 (+2) | 16 (+3) | 10  | 12 (+1) | 10  |
 
-**PG:** 50  
+**PG:** 50
 **CA:** 18 (Armadura de placas o cota de malla + escudo)
 
 **Equipo y Armas:**
@@ -581,7 +569,7 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 |:------:|:-------:|:-------:|:-------:|:-------:|:---:|
 | 8 (-1) | 12 (+1) | 14 (+2) | 17 (+3) | 13 (+1) | 10  |
 
-**PG:** 30  
+**PG:** 30
 **CA:** 12 (con armadura de mago o sin armadura; puede usar el hechizo *Escudo* en momentos críticos)
 
 **Equipo y Armas:**
@@ -601,8 +589,6 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 
 ## 3. Lyra “La Sombra” – Pícara (Arcane Trickster)
 
-
-
 **Rol:** Especialista en infiltración, desactivación de trampas y ataques sorpresa. Su agilidad le permite aprovechar el entorno para emboscar enemigos.
 
 **Estadísticas (aproximadas):**
@@ -611,7 +597,7 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 |:------:|:-------:|:-------:|:-------:|:-------:|:---:|
 | 8 (-1) | 17 (+3) | 14 (+2) | 12 (+1) | 13 (+1) | 10  |
 
-**PG:** 35  
+**PG:** 35
 **CA:** 15 (Armadura de cuero tachonado)
 
 **Equipo y Armas:**
@@ -669,7 +655,7 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 |:---:|:-------:|:-------:|:---:|:-------:|:------:|
 | 10  | 16 (+3) | 14 (+2) | 10  | 16 (+3) | 8 (-1) |
 
-**PG:** 40  
+**PG:** 40
 **CA:** 14–15 (Armadura de cuero tachonado o de cota de mallas ligera)
 
 **Equipo y Armas:**
@@ -685,17 +671,16 @@ A continuación, te presento cinco personajes pre-generados (PJ) diseñados para
 
 - **Rastreadora Natural:** Tiene ventaja en tiradas de Sabiduría para detectar pistas, seguir rastros y anticipar emboscadas, lo cual es clave en los recorridos de la torre y en la detección de trampas.
 
----
-
-### Integración en la Aventura
+### Cómo se integran en la aventura
 
 Cada uno de estos personajes está pensado para aprovechar diferentes aspectos de la aventura:
 
-- **Thorin y Kael** pueden encargarse de la línea frontal en combates intensos (enfrentando guardianes, mercenarios y el jefe).
-- **Eldrin** ofrece control y explosiones mágicas, revelando vulnerabilidades en los enemigos o trampas.
-- **Lyra** es ideal para la exploración sigilosa y la desactivación de trampas en el Laberinto, además de emboscar a enemigos en el Umbral o en emboscadas.
-- **Thalia** complementa la detección de peligros, el seguimiento de movimientos enemigos y aporta potencia a distancia, siendo esencial para emboscadas o para apoyar desde lejos.
+**Thorin y Kael** pueden encargarse de la línea frontal en combates intensos (enfrentando guardianes, mercenarios y el jefe).
+
+**Eldrin** ofrece control y explosiones mágicas, revelando vulnerabilidades en los enemigos o trampas.
+
+**Lyra** es ideal para la exploración sigilosa y la desactivación de trampas en el Laberinto, además de emboscar a enemigos en el Umbral o en emboscadas.
+
+**Thalia** complementa la detección de peligros, el seguimiento de movimientos enemigos y aporta potencia a distancia, siendo esencial para emboscadas o para apoyar desde lejos.
 
 La diversidad de roles obliga al grupo a colaborar: deberán coordinar ataques, compartir información sobre trampas o debilidades y utilizar el entorno a su favor. La combinación de fuerza bruta, magia, sigilo, sanación y exploración garantiza que cada encuentro de la Torre del Estratega se convierta en un reto táctico en el que todos tengan un papel vital.
-
-¡Espero que estos personajes encajen perfectamente en tu aventura de lucha y estrategia en D&D5 y que fomenten una experiencia de juego colaborativa y memorable!
