@@ -8,6 +8,8 @@ Los personajes son un grupo de aventureros contratados para ascender la enigmát
 
 **En esta partida, se puede volver atrás en el tiempo para deshacer acciones.**
 
+**Es conveniente usar relojes de arena para presionar a los jugadores.**
+
 ## Encuentro 1: El Umbral de la Torre
 
 **Objetivo:** Familiarizarse con las mecánicas básicas de combate, la iniciativa y el uso del entorno.  
@@ -16,7 +18,8 @@ Los personajes son un grupo de aventureros contratados para ascender la enigmát
 
 **Ambiente:** un vestíbulo en ruinas con columnas derruidas, zonas de cobertura y pasillos estrechos.
 
-**Enemigos:** un grupo de guardianes menores (por ejemplo, goblins o kobolds) que patrullan el área de entrada.  
+**Enemigos:** un grupo de guardianes menores (por ejemplo, goblins o kobolds) que patrullan el área de entrada.
+
 **Dinámica:**
 
 - Introducir la importancia de la posición y la iniciativa.
@@ -27,11 +30,10 @@ Los personajes son un grupo de aventureros contratados para ascender la enigmát
 
 El objetivo de este encuentro es que los jugadores se familiaricen con las mecánicas básicas de combate (iniciativa, tiradas de ataque y salvación) y experimenten el uso estratégico del terreno para obtener ventajas tácticas. Se enfatiza el posicionamiento y la importancia de utilizar coberturas naturales, como columnas y restos de la arquitectura derruida.
 
-### Ambientación y Narrativa
+### Ambientación y narrativa
 
 Los personajes llegan a la imponente entrada de la Torre del Estratega. El vestíbulo está en ruinas, con columnas derrumbadas, paredes agrietadas y escombros esparcidos por el suelo. La luz que entra por las ventanas rotas crea contrastes marcados de sombra y claridad. Sin embargo, no están solos: un pequeño grupo de guardianes menores (por ejemplo, goblins o kobolds) ha establecido una patrulla para proteger el acceso.
 
-**Narrativa sugerida:**  
 *"Al cruzar el umbral, observan el eco de sus pasos resonar en la inmensidad de un vestíbulo olvidado por el tiempo. Columnas derruidas y escombros indican la antigua grandeza del lugar, pero algo se mueve en las sombras: figuras ágiles y nerviosas que se ocultan tras los restos, esperando el momento oportuno para atacar."*
 
 ### Enemigos
@@ -149,12 +151,14 @@ Los personajes se adentran en un pasillo laberíntico y oscuro, en el que el sue
 
 ## Encuentro 3: La emboscada de las sombras
 
-**Objetivo:** Enfatizar la importancia del sigilo, la detección y el uso de la iluminación y el terreno a favor propio.  
-**Ambientación y Enemigos:**
+**Objetivo:** Enfatizar la importancia del sigilo, la detección y el uso de la iluminación y el terreno a favor propio.
+
+### Ambientación y Enemigos
 
 **Ambiente:** Un corredor oscuro iluminado solo por antorchas dispersas, con zonas de sombra donde se ocultan los peligros.
 
-**Enemigos:** Criaturas etéreas o espectros que se mueven silenciosamente, aprovechando la oscuridad para atacar por sorpresa.  
+**Enemigos:** Criaturas etéreas o espectros que se mueven silenciosamente, aprovechando la oscuridad para atacar por sorpresa.
+
 **Dinámica:**
 
 - Permitir tiradas de Sigilo, Percepción e Investigación para que los PJ descubran los patrones de ataque y la posición oculta de los enemigos.
@@ -176,7 +180,7 @@ El grupo avanza por un pasillo de la torre donde el ambiente se torna inquietant
 
 - Apariencia fantasmal, difuminados y etéreos.
 - Se camuflan en las zonas de sombra, volviéndose difíciles de detectar a simple vista.
-- Vulnerables a la luz y a ataques que aprovechen su falta de resistencia física.
+- Vulnerables a la luz y a ataques mágicos. El conjuro Sanación no los cura, sino que los hiere mucho.
 
 ### Dinámica del Encuentro
 
@@ -195,8 +199,6 @@ El grupo avanza por un pasillo de la torre donde el ambiente se torna inquietant
 **Estrategia de Sigilo y Coordinación:** la combinación de movimientos cautelosos y acciones coordinadas será clave para superar la emboscada.
 
 ## Mapa del corredor oscuro
-
-El siguiente código en Python utiliza matplotlib para generar un mapa elegante que representa el corredor oscuro con áreas iluminadas, zonas de sombra y posiciones de los espectros:
 
 ![](Figure_3.png)
 
@@ -234,7 +236,7 @@ El propósito de este encuentro es desafiar a los personajes a coordinar sus mov
 
 Los aventureros se adentran en una sala amplia, antiguamente un gran salón o vestíbulo, que ahora se encuentra parcialmente derrumbada. Columnas caídas, muros agrietados y plataformas elevadas se intercalan en el espacio, creando áreas de cobertura y puntos estratégicos. En este ambiente caótico, un grupo de mercenarios o esqueletos reanimados se dispone en formaciones, listos para explotar cualquier debilidad en la coordinación de los PJ.
 
-*"Al ingresar al gran salón, notan que el lugar parece haber sido testigo de épicas batallas pasadas. Columnas derrumbadas y escombros se mezclan con secciones aún en pie, ofreciendo oportunidades para moverse y atacar desde posiciones inesperadas. Los enemigos, organizados y letales, se mueven con rapidez, obligándolos a planificar cada acción con precisión."*
+*"Al ingresar al gran salón, notáis que el lugar parece haber sido testigo de épicas batallas pasadas. Columnas derrumbadas y escombros se mezclan con secciones aún en pie, ofreciendo oportunidades para moverse y atacar desde posiciones inesperadas. Los enemigos, organizados y letales, se mueven con rapidez, obligándoos a planificar cada acción con precisión."*
 
 ### Enemigos y dinámica de combate
 
