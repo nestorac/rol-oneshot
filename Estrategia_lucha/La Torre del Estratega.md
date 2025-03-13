@@ -674,4 +674,4 @@ Cada uno de estos personajes está pensado para aprovechar diferentes aspectos d
 
 **Thalia** complementa la detección de peligros, el seguimiento de movimientos enemigos y aporta potencia a distancia, siendo esencial para emboscadas o para apoyar desde lejos.
 
-La diversidad de roles obliga al grupo a colaborar: deberán coordinar ataques, compartir información sobre trampas o debilidades y utilizar el entorno a su favor. La combinación de fuerza bruta, magia, sigilo, sanación y exploración garantiza que cada encuentro de la Torre del Estratega se convierta en un reto táctico en el que todos tengan un papel vital.
+La diversidad de roles obliga al grupo a colaborar: deberán coordinar ataques, compartir información sobre trampas o debilidades y utilizar el entorno a su favor. La combinación de fuerza bruta, magia, sigilo, sanación y exploración garantiza que cada encuentro de la Torre del Estratega se convierta en un reto táctico en el que todos tengan un papel vital. 
