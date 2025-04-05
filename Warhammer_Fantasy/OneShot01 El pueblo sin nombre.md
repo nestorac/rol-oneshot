@@ -445,7 +445,7 @@ Con este sistema de pistas y revelaciones progresivas, los jugadores descubrirá
 
 
 # Antagonista principal: El Heraldo del Olvido
-![El Heraldo del Olvido](/home/txiki/Dokumentuak/rol-oneshot/Warhammer Fantasy/img01/heraldo.jpg){ width=300px }
+![El Heraldo del Olvido](img01/heraldo.jpg){ width=300px }
 
 **Nombre:** Varghast, el Heraldo del Olvido  
 **Origen:** Un antiguo escriba que fue consumido por la magia del pacto y ahora existe como una entidad incompleta, atrapada entre la realidad y el vacío.  
