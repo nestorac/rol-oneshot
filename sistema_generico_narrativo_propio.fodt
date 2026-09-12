@@ -1,34 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2025-10-03T19:48:39.033626433</meta:creation-date><dc:date>2025-10-29T21:54:14.692949330</dc:date><meta:editing-duration>PT15M48S</meta:editing-duration><meta:editing-cycles>4</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="1" meta:paragraph-count="15" meta:word-count="327" meta:character-count="1819" meta:non-whitespace-character-count="1510"/></office:meta>
+<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.4" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2025-10-03T19:48:39.033626433</meta:creation-date><dc:date>2026-09-12T14:06:13.901857224</dc:date><meta:editing-duration>PT22M14S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/26.2.5.2$Linux_X86_64 LibreOffice_project/cd7284b4cbbfeb507e630c1aac019f4157393acb</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="33" meta:word-count="410" meta:character-count="2373" meta:non-whitespace-character-count="1999"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22133</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">34645</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">30644</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">1847</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">18309</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">10485</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">12959</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">18431</config:config-item>
-     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22132</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">34643</config:config-item>
-     <config:config-item config:name="ZoomType" config:type="short">2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">8495</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">38014</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">1847</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">30644</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">20154</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">41127</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">129</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">168</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="WindowState" config:type="string">0,32,1921,1009;5;0,32,1921,1009;</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
      <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
      <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="UseTrailingEmptyLinesInLayout" config:type="boolean">false</config:config-item>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
   </config:config-item-set>
@@ -41,13 +43,20 @@
    <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
    <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AdjustTableLineHeightsToGridHeight" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BalanceSpacesAndIdeographicSpaces" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompGridMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PaintHellOverHeaderFooter" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToEmptyLineAtEndOfParagraph" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
    <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MinRowHeightInclBorder" config:type="boolean">false</config:config-item>
    <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
    <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
    <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordUlTrailSpace" config:type="boolean">false</config:config-item>
    <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
@@ -62,9 +71,11 @@
    <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">true</config:config-item>
    <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoClippingWithWrapPolygon" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
    <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
@@ -92,6 +103,7 @@
    <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
    <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ForceTopAlignmentInCellWithFloatingAnchor" config:type="boolean">false</config:config-item>
    <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
    <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
    <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
@@ -102,11 +114,7 @@
    <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
    <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string"/>
    <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
@@ -132,17 +140,21 @@
    <config:config-item config:name="NoGapAfterNoteNumber" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
    <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HiddenParagraphMarkPerLineProperties" config:type="boolean">false</config:config-item>
    <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IgnoreHiddenCharsForLineCalculation" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
    <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">873214</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1103372</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -168,7 +180,7 @@
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="es" fo:country="ES" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:hyphenation-keep="auto" loext:hyphenation-keep-type="column" loext:hyphenation-keep-line="false" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Times New Roman" fo:font-size="12pt" fo:language="es" fo:country="ES" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -178,7 +190,7 @@
    <style:table-row-properties fo:keep-together="auto"/>
   </style:default-style>
   <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
-  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="chapter">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
    <style:text-properties style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="swiss" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
   </style:style>
@@ -200,11 +212,11 @@
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="chapter">
    <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
    <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="chapter">
    <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false"/>
    <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
   </style:style>
@@ -212,6 +224,9 @@
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
   </style:style>
   <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
@@ -285,27 +300,49 @@
   </loext:theme>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000bcbf6" officeooo:paragraph-rsid="000bcbf6"/>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.499cm" style:contextual-spacing="false"/>
+   <style:text-properties officeooo:rsid="000f4493" officeooo:paragraph-rsid="000f4493"/>
   </style:style>
-  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="000bcbf6" officeooo:paragraph-rsid="000bcbf6"/>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-weight="normal" officeooo:paragraph-rsid="000f4493" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000bcbf6" officeooo:paragraph-rsid="000bcbf6"/>
+   <style:text-properties fo:font-weight="normal" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="000d52fe" officeooo:paragraph-rsid="000d52fe"/>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:rsid="000f4493" officeooo:paragraph-rsid="000f4493"/>
   </style:style>
   <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000bcbf6" officeooo:paragraph-rsid="000bcbf6"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="000d52fe" officeooo:paragraph-rsid="000d52fe"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:paragraph-properties fo:margin-left="1.251cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
    <style:text-properties fo:font-style="italic" officeooo:rsid="000d52fe" officeooo:paragraph-rsid="000d52fe" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="000bcbf6" officeooo:paragraph-rsid="000bcbf6"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0010d60c" officeooo:paragraph-rsid="0010d60c"/>
+  </style:style>
   <style:style style:name="T1" style:family="text">
-   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties style:text-line-through-style="solid" style:text-line-through-type="single"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+    <style:columns fo:column-count="3" fo:column-gap="0.399cm">
+     <style:column style:rel-width="21845*" fo:start-indent="0cm" fo:end-indent="0.199cm"/>
+     <style:column style:rel-width="21845*" fo:start-indent="0.199cm" fo:end-indent="0.199cm"/>
+     <style:column style:rel-width="21845*" fo:start-indent="0.199cm" fo:end-indent="0cm"/>
+    </style:columns>
+   </style:section-properties>
   </style:style>
   <text:list-style style:name="L1">
    <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
@@ -374,7 +411,7 @@
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
  </office:master-styles>
  <office:body>
-  <office:text>
+  <office:text text:use-soft-page-breaks="true">
    <text:sequence-decls>
     <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
@@ -382,31 +419,51 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
+   <text:p text:style-name="P1">Este sistema se usa en el lore Nexum, de cosecha propia, pero puede usarse en otros. Hace de pegamento entre diferentes SRD libres de rol:</text:p>
+   <text:section text:style-name="Sect1" text:name="Section1">
+    <text:p text:style-name="P2">Dungeons &amp; Dragons</text:p>
+    <text:p text:style-name="P2">Pathfinder</text:p>
+    <text:p text:style-name="P2">Fate</text:p>
+    <text:p text:style-name="P2">Blades in the Dark</text:p>
+    <text:p text:style-name="P3">Dungeon World</text:p>
+    <text:p text:style-name="P3">Old-School Essentials</text:p>
+    <text:p text:style-name="P3">Year Zero Engine</text:p>
+    <text:p text:style-name="P3">Basic Roleplaying (BRP)</text:p>
+    <text:p text:style-name="P3">OpenQuest.</text:p>
+    <text:p text:style-name="P3">Daggerheart</text:p>
+    <text:p text:style-name="P3">13th Age (Archmage Engine)</text:p>
+    <text:p text:style-name="P3">Worlds Without Number</text:p>
+   </text:section>
+   <text:p text:style-name="P4">Tiene una base narrativa para la exploración y estratégica para los combates.</text:p>
    <text:p text:style-name="Title">Sistema genérico narrativo propio</text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Lo básico</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Los dados</text:h>
-   <text:p text:style-name="P1">Se usan dados de lo que se quiera (d4...d20), se lanzan en grupos de dos colores diferenciados, tantos dados positivos como marque la habilidad del personaje y tantos negativos como indique la dificultad de la tirada o la defensa del objetivo.</text:p>
-   <text:p text:style-name="P1">Se anulan los resultados de la siguiente forma: se colocan en orden de mayor a menor resultado, los positivos junto a los negativos, y se enfrentan. El mayor positivo anula o es anulado por el mayor negativo, el segundo igual, y así todos. Se cuenta cuántos dados positivos y negativos han sobrevivido y de ahí sale el resultado.</text:p>
-   <text:p text:style-name="P4">El DJ puede negociar con el PJ la cantidad de dados a tirar. Ejemplo:</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T2">PJ.</text:span> Para esta tirada de buscar pido un dado más porque conozco el terreno.</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T2">DJ.</text:span> Tú conoces el terreno, cierto, pero hace mucho que no vienes por estas tierras, así que no puedes añadir ese dado.</text:p>
-   <text:p text:style-name="P5">Etc.</text:p>
-   <text:p text:style-name="P4">Obviamente, cada uno pretenderá aumentar sus dados o reducir los del oponente.</text:p>
+   <text:p text:style-name="P5">Se usan dados de lo que se quiera (d4...d20), se lanzan en grupos de dos colores diferenciados, tantos dados positivos como marque la habilidad del personaje y tantos negativos como indique la dificultad de la tirada o la defensa del objetivo.</text:p>
+   <text:p text:style-name="P5">Se anulan los resultados de la siguiente forma: se colocan en orden de mayor a menor resultado, los positivos junto a los negativos, y se enfrentan. El mayor positivo anula o es anulado por el mayor negativo, el segundo igual, y así todos. Se cuenta cuántos dados positivos y negativos han sobrevivido y de ahí sale el resultado.</text:p>
+   <text:p text:style-name="P6">El DJ puede negociar con el PJ la cantidad de dados a tirar. Ejemplo:</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">PJ.</text:span> Para esta tirada de buscar pido un dado más porque conozco el terreno.</text:p>
+   <text:p text:style-name="P7"><text:span text:style-name="T1">DJ.</text:span> Tú conoces el terreno, cierto, pero hace mucho que no vienes por estas tierras, así que no puedes añadir ese dado.</text:p>
+   <text:p text:style-name="P7">Etc.</text:p>
+   <text:p text:style-name="P6">Obviamente, cada uno prete13th 13th nderá aumentar sus dados o reducir los del oponente.</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Las tiradas</text:h>
    <text:list text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P2">Éxito → Primero se tira para obtener el éxito de la tirada. Se interpreta como “El personaje ha tenido éxito al impactar con su hacha.”</text:p>
+     <text:p text:style-name="P8">Éxito → Primero se tira para obtener el éxito de la tirada. Se interpreta como “El personaje ha tenido éxito al impactar con su hacha.”</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P2">Ventaja → Si la tirada anterior no ha obtenido un resultado <text:span text:style-name="T1">claro</text:span>, se tira la ventaja, que añade o sustrae uno o dos dados positivos a la próxima tirada de dados. Podría interpretarse como “El personaje queda en una situación ventajosa, que le otorga un dado adicional en la próxima tirada de Éxito”.</text:p>
+     <text:p text:style-name="P8">Ventaja → Si la tirada anterior no ha obtenido un resultado <text:span text:style-name="T2">claro</text:span>, se tira la ventaja, que añade o sustrae uno o dos dados positivos a la próxima tirada de dados. Podría interpretarse como “El personaje queda en una situación ventajosa, que le otorga un dado adicional en la próxima tirada de Éxito”.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P2">Suerte → Si la tirada anterior no ha obtenido un resultado <text:span text:style-name="T1">claro</text:span>, se tira suerte, que permite repetir una vez una tirada de dados, o por el contrario, obliga a tirar con desventaja.</text:p>
+     <text:p text:style-name="P8">Suerte → Si la tirada anterior no ha obtenido un resultado <text:span text:style-name="T2">claro</text:span>, se tira suerte, que permite repetir una vez una tirada de dados, o por el contrario, obliga a tirar con desventaja.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P2">Comodín → <text:s/>Si la tirada anterior no ha obtenido un resultado <text:span text:style-name="T1">claro</text:span>, se tira Comodín, que otorga un dado al Director de Juego o a un Personaje Jugador, y se puede usar para perjudicar o ayudar a un personaje cualquiera.</text:p>
+     <text:p text:style-name="P8"><text:soft-page-break/>Comodín → <text:s/>Si la tirada anterior no ha obtenido un resultado <text:span text:style-name="T2">claro</text:span>, se tira Comodín, que otorga un dado al Director de Juego o a un Personaje Jugador, y se puede usar para perjudicar o ayudar a un personaje cualquiera.</text:p>
     </text:list-item>
    </text:list>
+   <text:h text:style-name="Heading_20_1" text:outline-level="1">Ambientaciones</text:h>
+   <text:p text:style-name="P9">Este sistema soporta las siguientes ambientaciones, con sus requisitos específicos:</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Asimov</text:h>
+   <text:p text:style-name="P9">Narrativo, poco combate, puzzles...</text:p>
   </office:text>
  </office:body>
 </office:document>
